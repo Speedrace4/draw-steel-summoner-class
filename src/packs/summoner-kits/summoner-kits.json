@@ -190,7 +190,7 @@
       "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/defensive/shield-barrier-glowing-triangle-green.webp",
       "system": {
         "description": {
-          "value": "<p>Whenever an adjacent creature deals damage to you, you can use a free triggered action to pull that creature toward one of your minions within your Summoner’s Range a number of squares equal to your Reason score.</p>",
+          "value": "<p>Whenever an adjacent creature deals damage to you, you can use a free triggered action to pull that creature toward one of your minions within your Summoner's Range a number of squares equal to your Reason score.</p>",
           "director": ""
         },
         "source": {

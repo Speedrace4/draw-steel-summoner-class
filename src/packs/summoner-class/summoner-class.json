@@ -24,7 +24,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>While you have line of effect to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.</p><p>When you finish a respite, you can always perceive the soul trails of each creature that took the respite with you until your next respite.</p>",
+          "value": "<p>While you have line of effect to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 x your level.</p><p>When you finish a respite, you can always perceive the soul trails of each creature that took the respite with you until your next respite.</p>",
           "director": ""
         },
         "source": {
@@ -62,7 +62,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Your number of Recoveries further increases by 2.</p><p>Additionally, the area affected by your Pixie Dust feature and any of your fey minions’ traits that affect adjacent creatures and/or the area within 1 or more squares of them increase that distance by 1 square.</p>",
+          "value": "<p>Your number of Recoveries further increases by 2.</p><p>Additionally, the area affected by your Pixie Dust feature and any of your fey minions' traits that affect adjacent creatures and/or the area within 1 or more squares of them increase that distance by 1 square.</p>",
           "director": ""
         },
         "source": {
@@ -161,7 +161,7 @@
           ],
           "level": 6
         },
-        "story": "Your champion’s appearance has an enchanting impact on you and your allies.",
+        "story": "Your champion's appearance has an enchanting impact on you and your allies.",
         "keywords": [
           "area",
           "magic"
@@ -191,7 +191,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p><p>Until the end of the encounter or you become dying, each target has a +2 bonus to saving throws.</p><p>Each target can immediately make each of their saving throws and stand up from prone.</p>",
+          "before": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p><p>Until the end of the encounter or you become dying, each target has a +2 bonus to saving throws.</p><p>Each target can immediately make each of their saving throws and stand up from prone.</p>",
           "after": ""
         },
         "spend": {
@@ -355,7 +355,7 @@
         },
         "effect": {
           "before": "",
-          "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p><p><strong>Special</strong>: You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion).</p>"
+          "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p><p><strong>Special</strong>: You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion).</p>"
         },
         "spend": {
           "text": "",
@@ -396,7 +396,7 @@
           ],
           "level": null
         },
-        "story": "“Show them what you’re made of!”",
+        "story": "“Show them what you're made of!”",
         "keywords": [
           "magic",
           "ranged"
@@ -456,7 +456,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You aren’t affected by excess damage after all minions in a squad are dead. If your minion is within your Summoner’s Range when they take damage, you can choose to take damage in place of the minion.</p><p>Additionally, you can use light armor treasures and light weapon treasures while you don’t have a kit.</p>",
+          "value": "<p>You aren't affected by excess damage after all minions in a squad are dead. If your minion is within your Summoner's Range when they take damage, you can choose to take damage in place of the minion.</p><p>Additionally, you can use light armor treasures and light weapon treasures while you don't have a kit.</p>",
           "director": ""
         },
         "source": {
@@ -496,7 +496,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You can translate yourself and your allies into the space that your minions come from, as if summoning in reverse.</p><p>When you take a respite, you teleport to your circle’s source manifold or point of origin, as shown on the Circle’s Source Manifold table. You can bring along any allies to gather resources or research details about that location’s denizens. You are seen as a native resident of the location, but your allies might be seen as intruders.</p><ul><li><p>Blight: Abyssal Waste</p></li><li><p>Graves: Necropolitan Ruins (located within the Abyssal Waste)</p></li><li><p>Spring: Arcadia</p></li><li><p>Storms: Quintessence</p></li></ul><p>At the end of the respite, you and everyone you brought with you immediately teleports back into the same location from which you made the portal.</p>",
+          "value": "<p>You can translate yourself and your allies into the space that your minions come from, as if summoning in reverse.</p><p>When you take a respite, you teleport to your circle's source manifold or point of origin, as shown on the Circle's Source Manifold table. You can bring along any allies to gather resources or research details about that location's denizens. You are seen as a native resident of the location, but your allies might be seen as intruders.</p><ul><li><p>Blight: Abyssal Waste</p></li><li><p>Graves: Necropolitan Ruins (located within the Abyssal Waste)</p></li><li><p>Spring: Arcadia</p></li><li><p>Storms: Quintessence</p></li></ul><p>At the end of the respite, you and everyone you brought with you immediately teleports back into the same location from which you made the portal.</p>",
           "director": ""
         },
         "source": {
@@ -534,7 +534,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You can spend 1 uninterrupted minute to perform a ritual and use your body as a host for a willing spirit of a creature who died in the area. While hosting the spirit, you have access to their memories of the 24 hours leading up to their death and any skills they knew in life. You can also magically change your appearance to look like them while they were alive. </p><p>You can attempt to stop channeling the spirit at any time. If the spirit is hostile to you or you’ve hosted them for at least 1 hour, you must make a medium Presence test. On success, the spirit leaves your body. On failure, you become fully possessed by a haunt; you have no access to your skills and you can’t get above a tier 2 result on power rolls until you exorcise the haunt either by completing the Find a Cure downtime project in Draw Steel: Heroes or taking a respite with an exorcist.</p><p>After you stop channeling their spirit, you can’t use this feature to channel the same creature again.</p>",
+          "value": "<p>You can spend 1 uninterrupted minute to perform a ritual and use your body as a host for a willing spirit of a creature who died in the area. While hosting the spirit, you have access to their memories of the 24 hours leading up to their death and any skills they knew in life. You can also magically change your appearance to look like them while they were alive. </p><p>You can attempt to stop channeling the spirit at any time. If the spirit is hostile to you or you've hosted them for at least 1 hour, you must make a medium Presence test. On success, the spirit leaves your body. On failure, you become fully possessed by a haunt; you have no access to your skills and you can't get above a tier 2 result on power rolls until you exorcise the haunt either by completing the Find a Cure downtime project in Draw Steel: Heroes or taking a respite with an exorcist.</p><p>After you stop channeling their spirit, you can't use this feature to channel the same creature again.</p>",
           "director": ""
         },
         "source": {
@@ -572,7 +572,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Increase your number of Recoveries by 2.</p><p>Whenever one of your fey minions dies within your Summoner’s Range, you can spend a Recovery to give temporary Stamina equal to twice your Reason score to each non-minion ally adjacent to the minion when they died.</p>",
+          "value": "<p>Increase your number of Recoveries by 2.</p><p>Whenever one of your fey minions dies within your Summoner's Range, you can spend a Recovery to give temporary Stamina equal to twice your Reason score to each non-minion ally adjacent to the minion when they died.</p>",
           "director": ""
         },
         "source": {
@@ -896,7 +896,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Your maximum number of followers increases by 2.</p><p>You can summon and recruit an artisan follower and a sage follower that share a keyword with a minion you can summon. These followers can be creatures from your portfolio or preexisting denizens of your circle’s source manifold. See Follower Types under Attract Followers in Draw Steel: Heroes for information on constructing your followers’ stats.</p>",
+          "value": "<p>Your maximum number of followers increases by 2.</p><p>You can summon and recruit an artisan follower and a sage follower that share a keyword with a minion you can summon. These followers can be creatures from your portfolio or preexisting denizens of your circle's source manifold. See Follower Types under Attract Followers in Draw Steel: Heroes for information on constructing your followers' stats.</p>",
           "director": ""
         },
         "source": {
@@ -1072,7 +1072,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You’ve conjured your kit into its ultimate form. You have the following benefits:</p><ul><li><p>The potency of your Summoner Strike ability increases to [[potency R strong]].</p></li><li><p>You can choose one additional ward from your Summoner’s Kit.</p></li><li><p>You have a double edge on tests made to dissuade or scare enemy minions or lackeys.</p></li><li><p>Your clothing and equipment become adorned with distinct and elaborate regalia to make you stand out from your army, like massive rib cage pauldrons, a tooth crested helmet, or a billowing mantle of fire.</p></li></ul>",
+          "value": "<p>You've conjured your kit into its ultimate form. You have the following benefits:</p><ul><li><p>The potency of your Summoner Strike ability increases to [[potency R strong]].</p></li><li><p>You can choose one additional ward from your Summoner's Kit.</p></li><li><p>You have a double edge on tests made to dissuade or scare enemy minions or lackeys.</p></li><li><p>Your clothing and equipment become adorned with distinct and elaborate regalia to make you stand out from your army, like massive rib cage pauldrons, a tooth crested helmet, or a billowing mantle of fire.</p></li></ul>",
           "director": ""
         },
         "source": {
@@ -1091,7 +1091,7 @@
               "level": 9
             },
             "_id": "ckyGClaA0VcieGVe",
-            "description": "<p>You can choose one additional ward from your Summoner’s Kit.</p>",
+            "description": "<p>You can choose one additional ward from your Summoner's Kit.</p>",
             "repick": {
               "respite": ""
             },
@@ -1144,7 +1144,7 @@
       "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/symbols/runes-star-magenta.webp",
       "system": {
         "description": {
-          "value": "<p>You and your minions have a unique reserve of essence as your Heroic Resource. You use this magic to sculpt your forces and maintain control over the battlefield.</p><h4>Essence in Combat</h4><p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to [[lookup @hero.victories]]{your Victories}.</p><p>At the start of each of your turns during combat, you [[/gain 2 hr]]{gain 2 essence}. The first time each round that any minion (either yours or an enemy) dies unwillingly within your Summoner’s Range, you [[/gain 1 hr]]{gain 1 essence}.</p><p>Whenever you use a heroic ability or call forth a minion that costs essence, you can willingly sacrifice one or more of your minions within your Summoner’s Range to reduce the cost by 1. You can’t kill minions this way if they used a main action or maneuver during the turn. You can sacrifice more minions than you would reduce the cost by.</p><p>You lose any remaining essence at the end of the encounter.</p><h4>Essence Outside of Combat</h4><p>Though you can’t gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can’t use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.</p><p>When you use a persistent ability outside of combat (see @UUID[Compendium.draw-steel.classes.qOIxRq9d3diTKJzO]{Persistent Magic}), you can maintain it for a number of rounds equal to your Victories.</p><p>When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to [[lookup @hero.victories]]{your Victories}.</p>",
+          "value": "<p>You and your minions have a unique reserve of essence as your Heroic Resource. You use this magic to sculpt your forces and maintain control over the battlefield.</p><h4>Essence in Combat</h4><p>At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to [[lookup @hero.victories]]{your Victories}.</p><p>At the start of each of your turns during combat, you [[/gain 2 hr]]{gain 2 essence}. The first time each round that any minion (either yours or an enemy) dies unwillingly within your Summoner's Range, you [[/gain 1 hr]]{gain 1 essence}.</p><p>Whenever you use a heroic ability or call forth a minion that costs essence, you can willingly sacrifice one or more of your minions within your Summoner's Range to reduce the cost by 1. You can't kill minions this way if they used a main action or maneuver during the turn. You can sacrifice more minions than you would reduce the cost by.</p><p>You lose any remaining essence at the end of the encounter.</p><h4>Essence Outside of Combat</h4><p>Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you earn 1 or more Victories or finish a respite.</p><p>When you use a persistent ability outside of combat (see @UUID[Compendium.draw-steel.classes.qOIxRq9d3diTKJzO]{Persistent Magic}), you can maintain it for a number of rounds equal to your Victories.</p><p>When you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence equal to [[lookup @hero.victories]]{your Victories}.</p>",
           "director": ""
         },
         "source": {
@@ -1223,7 +1223,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>Once during your turn, you can use this free maneuver to deal damage to one of your elemental minions equal to half their maximum Stamina in order to create one additional copy of that minion in an adjacent unoccupied space and add them to their squad, even if you’re at your minion maximum. You can’t use this feature if it would kill one or more of the minions in the squad.</p>",
+          "before": "<p>Once during your turn, you can use this free maneuver to deal damage to one of your elemental minions equal to half their maximum Stamina in order to create one additional copy of that minion in an adjacent unoccupied space and add them to their squad, even if you're at your minion maximum. You can't use this feature if it would kill one or more of the minions in the squad.</p>",
           "after": ""
         },
         "spend": {
@@ -1329,7 +1329,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Your circle now allows you to add a champion to your portfolio. Champions follow the same rules as your other minions, with the following exceptions:</p><ul><li><p>You can only summon and command one instance of your champion. =</p></li><li><p>Your champion is in their own squad that does not count toward your maximum number of squads.</p></li><li><p>Your champion can regain Stamina and gain temporary Stamina.</p></li><li><p>Your champion uses your Recoveries to regain Stamina.</p></li><li><p>Your champion can take the Heal and Defend Actions.</p></li><li><p>Your champion uses the normal rules for maneuvers.</p></li><li><p>You have an edge whenever you use an ability with the Champion keyword from your Champion’s space.</p></li><li><p>Your champion refuses to be referred to as a minion.</p></li><li><p>After summoning a champion, you can’t summon them again until you earn a Victory.</p></li></ul><p>Your champion gains additional features at 10th level. This includes a special Champion Action ability that costs eidos to use (see Eidos). This ability can be activated once per encounter at the end of any other creature’s turn.</p>",
+          "value": "<p>Your circle now allows you to add a champion to your portfolio. Champions follow the same rules as your other minions, with the following exceptions:</p><ul><li><p>You can only summon and command one instance of your champion. =</p></li><li><p>Your champion is in their own squad that does not count toward your maximum number of squads.</p></li><li><p>Your champion can regain Stamina and gain temporary Stamina.</p></li><li><p>Your champion uses your Recoveries to regain Stamina.</p></li><li><p>Your champion can take the Heal and Defend Actions.</p></li><li><p>Your champion uses the normal rules for maneuvers.</p></li><li><p>You have an edge whenever you use an ability with the Champion keyword from your Champion's space.</p></li><li><p>Your champion refuses to be referred to as a minion.</p></li><li><p>After summoning a champion, you can't summon them again until you earn a Victory.</p></li></ul><p>Your champion gains additional features at 10th level. This includes a special Champion Action ability that costs eidos to use (see Eidos). This ability can be activated once per encounter at the end of any other creature's turn.</p>",
           "director": ""
         },
         "source": {
@@ -1367,7 +1367,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You gain an epic resource called eidos. When you take a respite, you gain eidos equal to the XP you gain. You can spend eidos as if it were essence on minions and abilities you have. When you do, you summon up to two bonus signature minions into unoccupied spaces within your Summoner’s Range.</p><p>You and your champion also have access to abilities that can be used by spending eidos (see Their Life for Mine and Portfolio Champion).</p><p>Eidos remains until you spend it.</p>",
+          "value": "<p>You gain an epic resource called eidos. When you take a respite, you gain eidos equal to the XP you gain. You can spend eidos as if it were essence on minions and abilities you have. When you do, you summon up to two bonus signature minions into unoccupied spaces within your Summoner's Range.</p><p>You and your champion also have access to abilities that can be used by spending eidos (see Their Life for Mine and Portfolio Champion).</p><p>Eidos remains until you spend it.</p>",
           "director": ""
         },
         "source": {
@@ -1446,7 +1446,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>Until the end of the encounter or until you are dying, each minion under your control during the encounter is the target of the following effect:</p><p>The target’s strikes can inflict (I &lt; your I) [[/apply taunted turn]] to enemies. The potency increases by 1 for each minion that joined the strike.</p>",
+          "before": "<p>Until the end of the encounter or until you are dying, each minion under your control during the encounter is the target of the following effect:</p><p>The target's strikes can inflict (I &lt; your I) [[/apply taunted turn]] to enemies. The potency increases by 1 for each minion that joined the strike.</p>",
           "after": ""
         },
         "spend": {
@@ -1476,7 +1476,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You are a feybright who beckons pixies, nixies, and sprites from Arcadia. Your portfolio features ephemeral fey spirits surrounded by weird and powerful magic. You can communicate with creatures that have the Fey keyword even if you don’t share a language.</p>",
+          "value": "<p>You are a feybright who beckons pixies, nixies, and sprites from Arcadia. Your portfolio features ephemeral fey spirits surrounded by weird and powerful magic. You can communicate with creatures that have the Fey keyword even if you don't share a language.</p>",
           "director": ""
         },
         "source": {
@@ -1768,7 +1768,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>Until the end of the encounter or you are dying, each square on the ground is considered teeming with minions. An enemy that ends their turn in an affected square takes [[/damage 5]]. This damage can’t be reduced.</p><p>Additionally, you can use Minion Bridge treating each affected square as an eligible minion (up to a maximum of 10 additional squares).</p>",
+          "before": "<p>Until the end of the encounter or you are dying, each square on the ground is considered teeming with minions. An enemy that ends their turn in an affected square takes [[/damage 5]]. This damage can't be reduced.</p><p>Additionally, you can use Minion Bridge treating each affected square as an eligible minion (up to a maximum of 10 additional squares).</p>",
           "after": ""
         },
         "spend": {
@@ -1810,7 +1810,7 @@
           ],
           "level": null
         },
-        "story": "You pierce your foe and repurpose some of that ’fiber of their being’ they weren’t using.",
+        "story": "You pierce your foe and repurpose some of that 'fiber of their being' they weren't using.",
         "keywords": [
           "magic",
           "melee",
@@ -1917,7 +1917,7 @@
         },
         "effect": {
           "before": "",
-          "after": "<p>You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.</p><p><strong>1 charge</strong>: You or an ally within your Summoner’s Range can spend a Recovery.</p><p><strong>1 charge</strong>: You or an ally within your Summoner’s Range gain a surge.</p><p><strong>2 charges</strong>: You call forth a signature minion into an unoccupied space within your Summoner’s Range.</p>"
+          "after": "<p>You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.</p><p><strong>1 charge</strong>: You or an ally within your Summoner's Range can spend a Recovery.</p><p><strong>1 charge</strong>: You or an ally within your Summoner's Range gain a surge.</p><p><strong>2 charges</strong>: You call forth a signature minion into an unoccupied space within your Summoner's Range.</p>"
         },
         "spend": {
           "text": "",
@@ -2073,7 +2073,7 @@
         },
         "effect": {
           "before": "",
-          "after": "<p>You can choose to kill any number of your minions within your Summoner’s Range as a part of this ability, provided they haven’t used a main action or maneuver during the turn. Each target takes an additional [[/damage 1], plus [[/damage 1]] for each minion killed this way. These minions activate no effects upon death, and you gain no essence from their deaths.</p>"
+          "after": "<p>You can choose to kill any number of your minions within your Summoner's Range as a part of this ability, provided they haven't used a main action or maneuver during the turn. Each target takes an additional [[/damage 1], plus [[/damage 1]] for each minion killed this way. These minions activate no effects upon death, and you gain no essence from their deaths.</p>"
         },
         "spend": {
           "text": "",
@@ -2102,7 +2102,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You and your allies are now welcome in your circle’s source manifold. Negotiations with native denizens of your circle’s source manifold have their patience increased by 2.</p>",
+          "value": "<p>You and your allies are now welcome in your circle's source manifold. Negotiations with native denizens of your circle's source manifold have their patience increased by 2.</p>",
           "director": ""
         },
         "source": {
@@ -2299,7 +2299,7 @@
         },
         "effect": {
           "before": "",
-          "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p><p>You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion). For each enemy reduced to 0 Stamina by this ability, an ally within distance can move up to their speed.</p>"
+          "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p><p>You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion). For each enemy reduced to 0 Stamina by this ability, an ally within distance can move up to their speed.</p>"
         },
         "spend": {
           "text": "",
@@ -2328,7 +2328,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>If you or an ally within your Summoner’s Range would die from an effect that isn’t age related, you sacrifice all your active minions (minimum 1) and spend all your essence (minimum 1) as a free triggered action to bring the target back to life, reconstructing the damaged parts of their body with summoned material related to your portfolio. The target comes back with 0 Stamina plus 1 Stamina for each minion and essence used in the effect. You must have at least one fragment of the creature’s remains, and the creature’s soul must be willing to return to life for the effect to work.</p><p>You can’t use this feature again until you gain a new level, or until you spend 3 eidos to use it (see Eidos).</p>",
+          "value": "<p>If you or an ally within your Summoner's Range would die from an effect that isn't age related, you sacrifice all your active minions (minimum 1) and spend all your essence (minimum 1) as a free triggered action to bring the target back to life, reconstructing the damaged parts of their body with summoned material related to your portfolio. The target comes back with 0 Stamina plus 1 Stamina for each minion and essence used in the effect. You must have at least one fragment of the creature's remains, and the creature's soul must be willing to return to life for the effect to work.</p><p>You can't use this feature again until you gain a new level, or until you spend 3 eidos to use it (see Eidos).</p>",
           "director": ""
         },
         "source": {
@@ -2404,7 +2404,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You are a necromancer who raises undead creatures from the Necropolitan Ruin. The corporeal and incorporeal creatures under your command are hardy and many. You can communicate with creatures that have the Undead keyword even if you don’t share a language.</p>",
+          "value": "<p>You are a necromancer who raises undead creatures from the Necropolitan Ruin. The corporeal and incorporeal creatures under your command are hardy and many. You can communicate with creatures that have the Undead keyword even if you don't share a language.</p>",
           "director": ""
         },
         "source": {
@@ -2529,7 +2529,7 @@
           ],
           "level": 9
         },
-        "story": "Cast those not affixed to this manifold into the void of a minion’s existence.",
+        "story": "Cast those not affixed to this manifold into the void of a minion's existence.",
         "keywords": [
           "area",
           "magic"
@@ -2601,7 +2601,7 @@
           ],
           "level": 3
         },
-        "story": "A lone squad appears to disrupt the enemy’s plans and peels off their forces, one by one.",
+        "story": "A lone squad appears to disrupt the enemy's plans and peels off their forces, one by one.",
         "keywords": [
           "magic"
         ],
@@ -2737,7 +2737,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>Once per encounter, you can use this maneuver to summon a fixture from your minions’ native manifold or origin into an unoccupied space on the ground within your Summoner’s Range. The fixture stays until the end of the encounter, until its Stamina is reduced to 0, or until you become dying.</p>",
+          "before": "<p>Once per encounter, you can use this maneuver to summon a fixture from your minions' native manifold or origin into an unoccupied space on the ground within your Summoner's Range. The fixture stays until the end of the encounter, until its Stamina is reduced to 0, or until you become dying.</p>",
           "after": ""
         },
         "spend": {
@@ -2907,7 +2907,7 @@
         },
         "effect": {
           "before": "",
-          "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p>"
+          "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p>"
         },
         "spend": {
           "text": "",
@@ -3008,7 +3008,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Whenever you use Minion Bridge as a maneuver, each of your minions within your Summoner’s Range can shift up to their speed before the maneuver takes effect, as long as each minion that shifts ends their movement adjacent to another one of your minions.</p><p>Additionally, your minions can chain themselves together to function as a ladder or a swinging rope. When your minions move as a part of using Minion Bridge, each minion can use this movement to shift into a position directly beneath another one of your minions, hoisting them and each other minion they have hoisted, until they form a chain. The chain can then choose to fall across an unoccupied space and/or the topmost minion grabs an object to keep the chain steady.</p><p>The chain lasts until the start of your next turn or until the chain is no longer steady. The chain can also end when a minion in the chain is destroyed or when you command your minions to let go as a free maneuver. All size 1 minions count as one square when determining the chain’s length.</p>",
+          "value": "<p>Whenever you use Minion Bridge as a maneuver, each of your minions within your Summoner's Range can shift up to their speed before the maneuver takes effect, as long as each minion that shifts ends their movement adjacent to another one of your minions.</p><p>Additionally, your minions can chain themselves together to function as a ladder or a swinging rope. When your minions move as a part of using Minion Bridge, each minion can use this movement to shift into a position directly beneath another one of your minions, hoisting them and each other minion they have hoisted, until they form a chain. The chain can then choose to fall across an unoccupied space and/or the topmost minion grabs an object to keep the chain steady.</p><p>The chain lasts until the start of your next turn or until the chain is no longer steady. The chain can also end when a minion in the chain is destroyed or when you command your minions to let go as a free maneuver. All size 1 minions count as one square when determining the chain's length.</p>",
           "director": ""
         },
         "source": {
@@ -3085,7 +3085,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>You can summon a signature undead minion in the triggering creature's space at no cost, even if you’re at your minion maximum, but only if they can be organized into one of your squads. The new minion can’t act until the start of your next turn.</p><p>This ability becomes a free triggered action if the target was a minion (either yours or an enemy).</p>",
+          "before": "<p>You can summon a signature undead minion in the triggering creature's space at no cost, even if you're at your minion maximum, but only if they can be organized into one of your squads. The new minion can't act until the start of your next turn.</p><p>This ability becomes a free triggered action if the target was a minion (either yours or an enemy).</p>",
           "after": ""
         },
         "spend": {
@@ -3115,7 +3115,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You now start encounters and round-tracked situations by summoning up to two additional minions for every two Victories you have (in addition to the two you normally summon).</p><p>Each of your minions’ Stamina improves as shown on the 10th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 5).</p>",
+          "value": "<p>You now start encounters and round-tracked situations by summoning up to two additional minions for every two Victories you have (in addition to the two you normally summon).</p><p>Each of your minions' Stamina improves as shown on the 10th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 5).</p>",
           "director": ""
         },
         "source": {
@@ -3341,7 +3341,7 @@
         },
         "_dsid": "summoner",
         "description": {
-          "value": "<p>You are the armada. The kings of old would trade armies for your abilities. You’ve undertaken the tradition that conjures an endless supply of warriors. You are the summoner, the mage who takes their dreams and makes them manifest.</p><p>You call forth minions to trudge fearlessly into the fray and provide support, holding the enemy at bay while you and your fellow heroes ready the counteroffensive. Your minions serve unflinchingly, unerringly, to their death or to yours.</p><p>You can also take advantage of powerful magic to buff your allies, whittle down your enemies, or enlist the fallen into your ranks. And when push comes to shove, you can call upon your champion to finish the fight.</p>",
+          "value": "<p>You are the armada. The kings of old would trade armies for your abilities. You've undertaken the tradition that conjures an endless supply of warriors. You are the summoner, the mage who takes their dreams and makes them manifest.</p><p>You call forth minions to trudge fearlessly into the fray and provide support, holding the enemy at bay while you and your fellow heroes ready the counteroffensive. Your minions serve unflinchingly, unerringly, to their death or to yours.</p><p>You can also take advantage of powerful magic to buff your allies, whittle down your enemies, or enlist the fallen into your ranks. And when push comes to shove, you can call upon your champion to finish the fight.</p>",
           "director": ""
         },
         "advancements": {
@@ -3426,7 +3426,7 @@
                 "uuid": "Compendium.world.classes.Item.oehOjrjvSinAo8AI"
               }
             ],
-            "description": "<p>The creatures you control are called minions. You can summon and maintain up to a maximum of 8 minions. Your minions are considered allies at your level.</p><p>You can manage up to two squads of minions. Newly summoned minions can either be organized into a new squad or be distributed into other squads under your control. A squad can’t contain more than eight minions, and all minions in the squad must have the same name. The maximum distance that you can summon minions and use specific conjuring abilities is called your Summoner’s Range. Your Summoner’s Range is equal to 5 + your Reason score. You must have line of effect to summon and give commands to minions within your Summoner’s Range. Commanding a minion to take a main action or a maneuver while hidden reveals you.</p><p>You also have special minions at your disposal called signature minions, low-cost creatures that you’ve become accustomed to summoning often. See your Portfolio for more details about the types of minions you can summon.</p>",
+            "description": "<p>The creatures you control are called minions. You can summon and maintain up to a maximum of 8 minions. Your minions are considered allies at your level.</p><p>You can manage up to two squads of minions. Newly summoned minions can either be organized into a new squad or be distributed into other squads under your control. A squad can't contain more than eight minions, and all minions in the squad must have the same name. The maximum distance that you can summon minions and use specific conjuring abilities is called your Summoner's Range. Your Summoner's Range is equal to 5 + your Reason score. You must have line of effect to summon and give commands to minions within your Summoner's Range. Commanding a minion to take a main action or a maneuver while hidden reveals you.</p><p>You also have special minions at your disposal called signature minions, low-cost creatures that you've become accustomed to summoning often. See your Portfolio for more details about the types of minions you can summon.</p>",
             "chooseN": null,
             "sort": 6000,
             "repick": {
@@ -3556,7 +3556,7 @@
                 "uuid": "Compendium.world.classes.Item.bglTOodE7hvZCIn0"
               }
             ],
-            "description": "<p>You’ve learned the art of summoning from a member of a loose network of summoners called a circle. Each circle specializes in a distinct portfolio of creatures you can call into existence. Choose a summoner circle from the following options, each of which grants you a communication feature (<em>Quick Build: Circle of Graves.</em>)</p>",
+            "description": "<p>You've learned the art of summoning from a member of a loose network of summoners called a circle. Each circle specializes in a distinct portfolio of creatures you can call into existence. Choose a summoner circle from the following options, each of which grants you a communication feature (<em>Quick Build: Circle of Graves.</em>)</p>",
             "sort": 14000,
             "repick": {
               "respite": ""
@@ -3575,7 +3575,7 @@
               "level": 1
             },
             "_id": "MNtcLYkYfQjig3pu",
-            "description": "<p>You’ve practiced a specific formation for your minions. Choose one of the following formations: horde, platoon, elite, or leader. You can change your formation along with your quick command (see Quick Command) by performing intense study as a respite activity. (<em>Quick Build: Platoon Formation.</em>)</p>",
+            "description": "<p>You've practiced a specific formation for your minions. Choose one of the following formations: horde, platoon, elite, or leader. You can change your formation along with your quick command (see Quick Command) by performing intense study as a respite activity. (<em>Quick Build: Platoon Formation.</em>)</p>",
             "repick": {
               "respite": "activity"
             },
@@ -3641,7 +3641,7 @@
               "level": 2
             },
             "_id": "L8GbryniOKJAidlD",
-            "description": "<p>Your circle allows you to call forth a piece of your portfolio’s dominion like any minion.</p><p>Once per encounter, you can use a maneuver to summon a fixture from your minions’ native manifold or origin into an unoccupied space on the ground within your Summoner’s Range. You can spend 1 essence to relocate the fixture as a free maneuver on your turn. The fixture stays until the end of the encounter, until its Stamina is reduced to 0, or until you become dying.</p><p>Your fixture gains additional features at 5th and 9th level.</p>",
+            "description": "<p>Your circle allows you to call forth a piece of your portfolio's dominion like any minion.</p><p>Once per encounter, you can use a maneuver to summon a fixture from your minions' native manifold or origin into an unoccupied space on the ground within your Summoner's Range. You can spend 1 essence to relocate the fixture as a free maneuver on your turn. The fixture stays until the end of the encounter, until its Stamina is reduced to 0, or until you become dying.</p><p>Your fixture gains additional features at 5th and 9th level.</p>",
             "repick": {
               "respite": ""
             },
@@ -3723,7 +3723,7 @@
               "level": 3
             },
             "_id": "mYb7M9XMexSVXozN",
-            "description": "<p>You conjure a kit for yourself. This kit includes an implement, such as a rod or a baton, which grants you the following benefits:</p><ul><li><p>The damage of your Summoner Strike ability increases to twice your Reason score.</p></li><li><p>The potency of your Summoner Strike ability increases to [[potency Presence average]].</p></li><li><p>The distance of your Summoner Strike ability is now equal to your Summoner’s Range.</p></li></ul><p>Your kit also comes with wards like magic armor and transient minion forces. Choose one of the following wards.</p>",
+            "description": "<p>You conjure a kit for yourself. This kit includes an implement, such as a rod or a baton, which grants you the following benefits:</p><ul><li><p>The damage of your Summoner Strike ability increases to twice your Reason score.</p></li><li><p>The potency of your Summoner Strike ability increases to [[potency Presence average]].</p></li><li><p>The distance of your Summoner Strike ability is now equal to your Summoner's Range.</p></li></ul><p>Your kit also comes with wards like magic armor and transient minion forces. Choose one of the following wards.</p>",
             "repick": {
               "respite": "activity"
             },
@@ -4374,7 +4374,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>As a respite activity, you summon a willing and not-restrained NPC or player ally to join your party, regardless of distance or manifold. The target stays until the start of your next respite or until they are killed, in which they are immediately dismissed to the place from which they were summoned. You can’t have more than one character summoned in this way.</p>",
+          "value": "<p>As a respite activity, you summon a willing and not-restrained NPC or player ally to join your party, regardless of distance or manifold. The target stays until the start of your next respite or until they are killed, in which they are immediately dismissed to the place from which they were summoned. You can't have more than one character summoned in this way.</p>",
           "director": ""
         },
         "source": {
@@ -4412,7 +4412,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You aren’t affected by excess damage after all minions in a squad are dead.</p><p>Additionally, you and each of your undead minions ignore damage rolled as a d3 or a d6 and damage from environmental effects while you are not winded.</p>",
+          "value": "<p>You aren't affected by excess damage after all minions in a squad are dead.</p><p>Additionally, you and each of your undead minions ignore damage rolled as a d3 or a d6 and damage from environmental effects while you are not winded.</p>",
           "director": ""
         },
         "source": {
@@ -4450,7 +4450,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can’t be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.</p><p>Additionally, whenever one of your demon minions Death Snaps, their target is P&lt;W affected by a condition the minion was suffering from. The potency increases by 1 on each subsequent Death Snap the target takes damage from in the same turn (maximum +2).</p>",
+          "value": "<p>As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can't be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.</p><p>Additionally, whenever one of your demon minions Death Snaps, their target is P&lt;W affected by a condition the minion was suffering from. The potency increases by 1 on each subsequent Death Snap the target takes damage from in the same turn (maximum +2).</p>",
           "director": ""
         },
         "source": {
@@ -4516,7 +4516,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You are a demonologist who calls forth demons from the Abyssal Waste. Your portfolio includes shapechanging demons that grow in hunger and power over time. You can communicate with creatures that have the Abyssal keyword even if you don’t share a language.</p>",
+          "value": "<p>You are a demonologist who calls forth demons from the Abyssal Waste. Your portfolio includes shapechanging demons that grow in hunger and power over time. You can communicate with creatures that have the Abyssal keyword even if you don't share a language.</p>",
           "director": ""
         },
         "source": {
@@ -4701,7 +4701,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The first time each combat round that any minion unwillingly dies within your Summoner’s Range, you [[/gain 2 hr]]{gain 2 essence} instead of 1.</p>",
+          "value": "<p>The first time each combat round that any minion unwillingly dies within your Summoner's Range, you [[/gain 2 hr]]{gain 2 essence} instead of 1.</p>",
           "director": ""
         },
         "source": {
@@ -4851,7 +4851,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>At the start of each of your turns, you can transform up to two of your demon minions within your Summoner’s Range. A demon can transform into a different demon minion within your Summoner’s Range, maintaining their current Stamina. Starting from round 2, a demon can transform any demon minion you can call forth for half the essence cost, as if you summoned the new minion into the demon’s space.</p><p>The minions must be reassigned to a new squad if their new name differs from the other squad members.</p>",
+          "value": "<p>At the start of each of your turns, you can transform up to two of your demon minions within your Summoner's Range. A demon can transform into a different demon minion within your Summoner's Range, maintaining their current Stamina. Starting from round 2, a demon can transform any demon minion you can call forth for half the essence cost, as if you summoned the new minion into the demon's space.</p><p>The minions must be reassigned to a new squad if their new name differs from the other squad members.</p>",
           "director": ""
         },
         "source": {
@@ -4889,7 +4889,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You can choose one additional ward from your Summoner’s Kit.</p><p>Additionally, whenever you reduce an enemy to 0 Stamina with your Summoner Strike ability, you can use Call Forth as a free maneuver. Minions summoned this way are unable to act during this turn.</p>",
+          "value": "<p>You can choose one additional ward from your Summoner's Kit.</p><p>Additionally, whenever you reduce an enemy to 0 Stamina with your Summoner Strike ability, you can use Call Forth as a free maneuver. Minions summoned this way are unable to act during this turn.</p>",
           "director": ""
         },
         "source": {
@@ -4908,7 +4908,7 @@
               "level": 6
             },
             "_id": "rpjUaIAi9gYLKFkE",
-            "description": "<p>You can choose one additional ward from your Summoner’s Kit.</p>",
+            "description": "<p>You can choose one additional ward from your Summoner's Kit.</p>",
             "repick": {
               "respite": ""
             },
@@ -5030,7 +5030,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You and your undead minions don’t spend additional speed to move through difficult terrain. If one or more of your undead minions would die while using their move action, they can choose to not die until the end of your turn.</p>",
+          "value": "<p>You and your undead minions don't spend additional speed to move through difficult terrain. If one or more of your undead minions would die while using their move action, they can choose to not die until the end of your turn.</p>",
           "director": ""
         },
         "source": {
@@ -5068,7 +5068,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Your maximum number of minions increases by 4.</p><p>You can increase each of your minions’ Stamina as shown on the 4th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 3).</p><p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>",
+          "value": "<p>Your maximum number of minions increases by 4.</p><p>You can increase each of your minions' Stamina as shown on the 4th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 3).</p><p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>",
           "director": ""
         },
         "source": {
@@ -5324,7 +5324,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You are a storm caster who summons elementals from Quintessence. This portfolio contains forces of nature that leave a big impact on the environment. You can communicate with creatures that have the Elemental keyword even if you don’t share a language.</p>",
+          "value": "<p>You are a storm caster who summons elementals from Quintessence. This portfolio contains forces of nature that leave a big impact on the environment. You can communicate with creatures that have the Elemental keyword even if you don't share a language.</p>",
           "director": ""
         },
         "source": {
@@ -5479,7 +5479,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p><p>Each target is [[potency R average]] [[/apply weakened save]]. Until the end of the encounter, whenever a target gets a tier 1 result on a strike, they deal half damage. If a target was striking a creature adjacent to one of their allies, they target their ally instead.</p>",
+          "before": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p><p>Each target is [[potency R average]] [[/apply weakened save]]. Until the end of the encounter, whenever a target gets a tier 1 result on a strike, they deal half damage. If a target was striking a creature adjacent to one of their allies, they target their ally instead.</p>",
           "after": ""
         },
         "spend": {
@@ -5626,7 +5626,7 @@
           ],
           "level": 1
         },
-        "story": "You ensure the enemy can’t escape the incoming attack.",
+        "story": "You ensure the enemy can't escape the incoming attack.",
         "keywords": [],
         "type": "triggered",
         "category": "",
@@ -5695,7 +5695,7 @@
           ],
           "level": 3
         },
-        "story": "Rush ’em! CRUSH ’EM!",
+        "story": "Rush 'em! CRUSH 'EM!",
         "keywords": [
           "magic"
         ],
@@ -5724,7 +5724,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>Until the end of the encounter or you are dying, each minion under your control during the encounter is the target of the following effect. The first time on a turn that the target moves through an enemy’s space, the enemy can choose to shift 1 square or be [[potency Might weak]] (or [[potency Might average]] if the target is larger than the enemy) [[/apply prone]]{knocked prone}. The potency increases by 1 for each subsequent target that moves through the enemy’s space during the same move action.</p>",
+          "before": "<p>Until the end of the encounter or you are dying, each minion under your control during the encounter is the target of the following effect. The first time on a turn that the target moves through an enemy's space, the enemy can choose to shift 1 square or be [[potency Might weak]] (or [[potency Might average]] if the target is larger than the enemy) [[/apply prone]]{knocked prone}. The potency increases by 1 for each subsequent target that moves through the enemy's space during the same move action.</p>",
           "after": ""
         },
         "spend": {
@@ -5754,7 +5754,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You can spend 1 uninterrupted minute each day to perform a ritual and summon a special elemental mote called a beacon to patrol the area. This mote telepathically communicates any hostile creatures, hazards, or traps within 20 squares of them to you no matter how far away you are. You know the number of nearby hazards and which direction they’re in relative to where the beacon is, but not their exact position. You can have a number of beacons active equal to your level.</p>",
+          "value": "<p>You can spend 1 uninterrupted minute each day to perform a ritual and summon a special elemental mote called a beacon to patrol the area. This mote telepathically communicates any hostile creatures, hazards, or traps within 20 squares of them to you no matter how far away you are. You know the number of nearby hazards and which direction they're in relative to where the beacon is, but not their exact position. You can have a number of beacons active equal to your level.</p>",
           "director": ""
         },
         "source": {
@@ -5870,7 +5870,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can’t be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.</p>",
+          "before": "<p>As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can't be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.</p>",
           "after": ""
         },
         "spend": {
@@ -5976,7 +5976,7 @@
         },
         "effect": {
           "before": "",
-          "after": "<p>The minions are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned minion immediately moves up to their speed toward a creature or object.</p><p>If they move adjacent to their target, become targeted by an opportunity attack, or stop moving, they explode, dealing [[/damage 2]] to one adjacent creature or object and pushing them 1 square. If a target is affected by two or more minions’ explosions, the effects stack. These minions activate no effects upon death, and you gain no essence from their deaths.</p><p><strong>Special</strong>: In addition to the minions summoned as a part of this ability, you can choose to command any number of your minions within distance, provided they haven’t used a main action or maneuver during the turn.</p>"
+          "after": "<p>The minions are summoned within distance regardless of your minion maximum and without organizing them into squads. Each newly summoned minion immediately moves up to their speed toward a creature or object.</p><p>If they move adjacent to their target, become targeted by an opportunity attack, or stop moving, they explode, dealing [[/damage 2]] to one adjacent creature or object and pushing them 1 square. If a target is affected by two or more minions' explosions, the effects stack. These minions activate no effects upon death, and you gain no essence from their deaths.</p><p><strong>Special</strong>: In addition to the minions summoned as a part of this ability, you can choose to command any number of your minions within distance, provided they haven't used a main action or maneuver during the turn.</p>"
         },
         "spend": {
           "text": "",
@@ -6235,7 +6235,7 @@
           "custom": ""
         },
         "effect": {
-          "before": "<p>Effect: [[lookup @R]] damage. If the target has [[potency R weak]], they are [[/apply slowed save]].</p><p>Special: This ability has the Charge keyword when it’s used as a melee strike.</p>",
+          "before": "<p>Effect: [[lookup @R]] damage. If the target has [[potency R weak]], they are [[/apply slowed save]].</p><p>Special: This ability has the Charge keyword when it's used as a melee strike.</p>",
           "after": ""
         },
         "spend": {
@@ -6281,7 +6281,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can’t obtain lower than a tier 2 outcome on any Intuition test made to socially interact with them.</p>",
+          "value": "<p>You can sense the presence of creatures with the Elemental or Dragon keywords within 1 mile of you. You can innately feel their emotions or pain, and you can't obtain lower than a tier 2 outcome on any Intuition test made to socially interact with them.</p>",
           "director": ""
         },
         "source": {
@@ -6422,7 +6422,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>At the start of each of your turns during combat, you can summon one additional signature minion at no cost into an unoccupied space within your Summoner’s Range (no action required).</p><p>Additionally, you can increase each of your minions’ Stamina as shown on the 7th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 4).</p><p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>",
+          "value": "<p>At the start of each of your turns during combat, you can summon one additional signature minion at no cost into an unoccupied space within your Summoner's Range (no action required).</p><p>Additionally, you can increase each of your minions' Stamina as shown on the 7th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 4).</p><p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>",
           "director": ""
         },
         "source": {

@@ -261,7 +261,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>Each enemy within 2 squares of the [[lookup @name]] can’t hide or be hidden.</p>",
+              "value": "<p>Each enemy within 2 squares of the [[lookup @name]] can't hide or be hidden.</p>",
               "director": ""
             },
             "source": {
@@ -929,7 +929,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee strikes inflict push 4. If the target is force moved into an object, they are [[M &lt; your M - 1]] [[/apply prone]]{knocked prone} and can’t stand (save ends).</p>",
+              "value": "<p>The [[lookup @name]]'s melee strikes inflict push 4. If the target is force moved into an object, they are [[op M average]] [[/apply prone]]{knocked prone} and can't stand (save ends).</p>",
               "director": ""
             },
             "source": {
@@ -1046,7 +1046,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -1343,7 +1343,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee free strikes have a distance of 2 and inflict M &lt; your M - 1 [[/apply restrained turn]]. The [[lookup @name]] can move the target while they are restrained this way. At the start of a restrained creature’s turn, they take acid damage equal to your Reason.</p>",
+              "value": "<p>The [[lookup @name]]'s melee free strikes have a distance of 2 and inflict [[op M average]] [[/apply restrained turn]]. The [[lookup @name]] can move the target while they are restrained this way. At the start of a restrained creature's turn, they take acid damage equal to your Reason.</p>",
               "director": ""
             },
             "source": {
@@ -1454,7 +1454,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>A spewler’s mouth makes up most of its size. They unleash torrents of acid and bile from their pitless stomachs before consuming their prey with bag-like maws.</p>",
+          "value": "<p>A spewler's mouth makes up most of its size. They unleash torrents of acid and bile from their pitless stomachs before consuming their prey with bag-like maws.</p>",
           "director": "",
           "languages": []
         },
@@ -1751,7 +1751,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -2043,7 +2043,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -2337,7 +2337,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s ranged free strikes inflict A &lt; your A - 1 [[/apply restrained turn]]. Each creature adjacent to the target is A &lt; your A - 2 [[/apply slowed turn]].</p>",
+              "value": "<p>The [[lookup @name]]'s ranged free strikes inflict [[op A average]] [[/apply restrained turn]]. Each creature adjacent to the target is [[op A weak]] [[/apply slowed turn]].</p>",
               "director": ""
             },
             "source": {
@@ -2376,7 +2376,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they launch ribbons of webbing into an area equal to their size + 1 within 5 before being destroyed. The affected area is considered difficult terrain for enemies until the end of the encounter. An enemy that ends their turn in the webbing is M &lt; your M [[/apply slowed turn]].</p>",
+              "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they launch ribbons of webbing into an area equal to their size + 1 within 5 before being destroyed. The affected area is considered difficult terrain for enemies until the end of the encounter. An enemy that ends their turn in the webbing is [[op M strong]] [[/apply slowed turn]].</p>",
               "director": ""
             },
             "source": {
@@ -2669,7 +2669,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -2907,7 +2907,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>Dandeknights are sprite warriors whose dragonfly wingbeats emit a tonal drone. They’re usually clad in tassels that shift color as they swing their weapons.</p>",
+          "value": "<p>Dandeknights are sprite warriors whose dragonfly wingbeats emit a tonal drone. They're usually clad in tassels that shift color as they swing their weapons.</p>",
           "director": "",
           "languages": []
         },
@@ -3167,7 +3167,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -3460,7 +3460,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] can move through other creatures and objects at normal speed. The first time in a round that the [[lookup @name]] passes through a creature, that creature takes [[/damage 2 corruption]]. The [[lookup @name]] doesn’t take damage from being force moved into objects.</p>",
+              "value": "<p>The [[lookup @name]] can move through other creatures and objects at normal speed. The first time in a round that the [[lookup @name]] passes through a creature, that creature takes [[/damage 2 corruption]]. The [[lookup @name]] doesn't take damage from being force moved into objects.</p>",
               "director": ""
             },
             "source": {
@@ -4520,7 +4520,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -4598,7 +4598,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The area within 1 square of the [[lookup @name]] causes each enemy and object with a size equal to your Reason or smaller to float 1 square off the ground until they leave the area. A floating enemy that can’t fly is unable to shift, moves 2 additional squares from forced movement, and has a bane on strikes.</p>",
+              "value": "<p>The area within 1 square of the [[lookup @name]] causes each enemy and object with a size equal to your Reason or smaller to float 1 square off the ground until they leave the area. A floating enemy that can't fly is unable to shift, moves 2 additional squares from forced movement, and has a bane on strikes.</p>",
               "director": ""
             },
             "source": {
@@ -5441,7 +5441,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>The grave knights are zombie warriors that continue to fight after death. Any blood spilled at a grave knight’s hand runs pitch black.</p>",
+          "value": "<p>The grave knights are zombie warriors that continue to fight after death. Any blood spilled at a grave knight's hand runs pitch black.</p>",
           "director": "",
           "languages": []
         },
@@ -6126,7 +6126,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -6165,7 +6165,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The foxglow’s melee strikes inflict (I &lt; your I) [[/apply dazed turn]] if they were hidden when they make the strike.</p>",
+              "value": "<p>The foxglow's melee strikes inflict [[op I strong]] [[/apply dazed turn]] if they were hidden when they make the strike.</p>",
               "director": ""
             },
             "source": {
@@ -6723,7 +6723,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>Each enemy that starts their turn within 3 squares of [[lookup @name]] is (I &lt; your I - 1) [[/apply taunted turn]] by [[lookup @name]], or (I &lt; your I - 2) [[/apply taunted turn]] by the boil and can’t move further from it.</p>",
+              "value": "<p>Each enemy that starts their turn within 3 squares of [[lookup @name]] is [[op I average]] [[/apply taunted turn]] by [[lookup @name]], or [[op I weak]] [[/apply taunted turn]] by the boil and can't move further from it.</p>",
               "director": ""
             },
             "source": {
@@ -6762,7 +6762,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>When [[lookup @name]] is destroyed, each enemy within 3 squares of [[lookup @name]] takes acid damage equal to your level and is (A &lt; your A) [[/apply weakened save]].</p>",
+              "value": "<p>When [[lookup @name]] is destroyed, each enemy within 3 squares of [[lookup @name]] takes acid damage equal to your level and is [[op A strong]] [[/apply weakened save]].</p>",
               "director": ""
             },
             "source": {
@@ -6834,7 +6834,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>Ensnarers knot and twist their bodies together to form heaving, heavy musilexes. They’re compelled to drag everything in toward their body.</p>",
+          "value": "<p>Ensnarers knot and twist their bodies together to form heaving, heavy musilexes. They're compelled to drag everything in toward their body.</p>",
           "director": "",
           "languages": []
         },
@@ -7053,7 +7053,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -7306,7 +7306,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -7638,7 +7638,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>Once per turn during their move action, each [[lookup @name]] under your control can teleport to a body of water within 6. The [[lookup @name]] can’t teleport into water created by their own seafoam pool.</p>",
+              "value": "<p>Once per turn during their move action, each [[lookup @name]] under your control can teleport to a body of water within 6. The [[lookup @name]] can't teleport into water created by their own seafoam pool.</p>",
               "director": ""
             },
             "source": {
@@ -7716,7 +7716,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -7943,7 +7943,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>Each enemy that starts their turn within 3 squares of the [[lookup @name]] is I &lt; your I - 1 [[/apply frightened turn]] by the [[lookup @name]]. The potency increases by 1 for winded enemies.</p>",
+              "value": "<p>Each enemy that starts their turn within 3 squares of the [[lookup @name]] is [[op I average]] [[/apply frightened turn]] by the [[lookup @name]]. The potency increases by 1 for winded enemies.</p>",
               "director": ""
             },
             "source": {
@@ -8100,7 +8100,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>Your champion is an Attendant of a celestial. Whenever you call on their assistance, you must formally welcome and introduce them to the occasion. You can’t be certain if this is truly the blessing of a celestial you’ve previously allied yourself with, or if you’ve received someone else’s power—neither circumstance puts you in any less danger.</p><p>The celestial Attendant wants to swarm the map with pixies while limiting their foes’ ability to do anything about it. A single neurotoxic strike is all it takes to move everyone into position.</p>",
+          "value": "<p>Your champion is an Attendant of a celestial. Whenever you call on their assistance, you must formally welcome and introduce them to the occasion. You can't be certain if this is truly the blessing of a celestial you've previously allied yourself with, or if you've received someone else's power—neither circumstance puts you in any less danger.</p><p>The celestial Attendant wants to swarm the map with pixies while limiting their foes' ability to do anything about it. A single neurotoxic strike is all it takes to move everyone into position.</p>",
           "director": "",
           "languages": []
         },
@@ -8397,7 +8397,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>A creature that takes damage from the [[lookup @name]]'s free strike is I &lt; your I - 1 unable to establish line of effect beyond 3 squares (EoT).</p>",
+              "value": "<p>A creature that takes damage from the [[lookup @name]]'s free strike is [[op I average]] unable to establish line of effect beyond 3 squares (EoT).</p>",
               "director": ""
             },
             "source": {
@@ -8436,7 +8436,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] starts their turn with temporary Stamina equal to 2 × the number of fey minions within 1 square of them. This temporary Stamina lasts until the start of their next turn.</p>",
+              "value": "<p>The [[lookup @name]] starts their turn with temporary Stamina equal to 2 x the number of fey minions within 1 square of them. This temporary Stamina lasts until the start of their next turn.</p>",
               "director": ""
             },
             "source": {
@@ -8951,7 +8951,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>Once per turn during their move action, each [[lookup @name]] under your control can teleport to a body of water within 6. The [[lookup @name]] can’t teleport into water created by their own whirling waves.</p>",
+              "value": "<p>Once per turn during their move action, each [[lookup @name]] under your control can teleport to a body of water within 6. The [[lookup @name]] can't teleport into water created by their own whirling waves.</p>",
               "director": ""
             },
             "source": {
@@ -8990,7 +8990,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The area within 1 square of the [[lookup @name]] is filled with churning water and if considered difficult terrain. At the end of the [[lookup @name]]'s turn, the [[lookup @name]] can choose to slide each enemy in the affected area 3 squares. An enemy that takes damage while being force moved with (M &lt; your M - 1) is [[/apply prone]].</p>",
+              "value": "<p>The area within 1 square of the [[lookup @name]] is filled with churning water and if considered difficult terrain. At the end of the [[lookup @name]]'s turn, the [[lookup @name]] can choose to slide each enemy in the affected area 3 squares. An enemy that takes damage while being force moved with [[op M average]] is [[/apply prone]].</p>",
               "director": ""
             },
             "source": {
@@ -9029,7 +9029,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -9326,7 +9326,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] teleports 5 squares before making a melee free strike. The target is M &lt; your M - 1 [[/apply prone]]{knocked prone}. If the target is in the air, the potency increases by 1.</p>",
+              "value": "<p>The [[lookup @name]] teleports 5 squares before making a melee free strike. The target is [[op M average]] [[/apply prone]]{knocked prone}. If the target is in the air, the potency increases by 1.</p>",
               "director": ""
             },
             "source": {
@@ -9437,7 +9437,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>Zombie titan is a catchall for undead giants, patchwork ogres and mournlings, or amalgamations of a graveyard’s entire population. The titan lumbers and slumps across battlefields, wanting desperately to collapse and crash into the earth like a sea of flesh and bone.</p>",
+          "value": "<p>Zombie titan is a catchall for undead giants, patchwork ogres and mournlings, or amalgamations of a graveyard's entire population. The titan lumbers and slumps across battlefields, wanting desperately to collapse and crash into the earth like a sea of flesh and bone.</p>",
           "director": "",
           "languages": []
         },
@@ -9700,7 +9700,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee free strikes M &lt; your M [[/apply prone]]{knock the target prone}.</p>",
+              "value": "<p>The [[lookup @name]]'s melee free strikes [[op M strong]] [[/apply prone]]{knock the target prone}.</p>",
               "director": ""
             },
             "source": {
@@ -9739,7 +9739,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] can move through enemies at normal speed. If the [[lookup @name]] ends their turn in a prone size 2 or smaller creature’s space, the creature can’t stand.</p>",
+              "value": "<p>The [[lookup @name]] can move through enemies at normal speed. If the [[lookup @name]] ends their turn in a prone size 2 or smaller creature's space, the creature can't stand.</p>",
               "director": ""
             },
             "source": {
@@ -10071,7 +10071,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee free strikes [[potency M average]] automatically hide each ally from the target until the start of the crux’s next turn, until the target uses a maneuver to clear the soot, until the crux takes damage, or until the crux is destroyed.</p>",
+              "value": "<p>The [[lookup @name]]'s melee free strikes [[potency M average]] automatically hide each ally from the target until the start of the crux's next turn, until the target uses a maneuver to clear the soot, until the crux takes damage, or until the crux is destroyed.</p>",
               "director": ""
             },
             "source": {
@@ -10110,7 +10110,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, the area within 1 square of the [[lookup @name]] is clouded by ash until it is dispersed by wind. You or any ally are concealed while occupying an affected square. An enemy can’t establish line of effect beyond the ash while occupying an affected square.</p>",
+              "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, the area within 1 square of the [[lookup @name]] is clouded by ash until it is dispersed by wind. You or any ally are concealed while occupying an affected square. An enemy can't establish line of effect beyond the ash while occupying an affected square.</p>",
               "director": ""
             },
             "source": {
@@ -10364,7 +10364,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>Once per turn during their move action, each [[lookup @name]] under your control can teleport to a body of water within 5. The [[lookup @name]] can’t teleport into water created by their own soaking bog.</p>",
+              "value": "<p>Once per turn during their move action, each [[lookup @name]] under your control can teleport to a body of water within 5. The [[lookup @name]] can't teleport into water created by their own soaking bog.</p>",
               "director": ""
             },
             "source": {
@@ -10442,7 +10442,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -10733,7 +10733,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -11026,7 +11026,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -11490,7 +11490,7 @@
             },
             "effect": {
               "before": "<p>The range of this ability is equal to your reason.</p>",
-              "after": "<p>A target pulled adjacent to the [[lookup @name]] is M &lt; your M [[/apply weakened turn]].</p>"
+              "after": "<p>A target pulled adjacent to the [[lookup @name]] is [[op M strong]] [[/apply weakened turn]].</p>"
             },
             "spend": {
               "text": "",
@@ -11854,7 +11854,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s free strikes inflict M &lt; your M - 2 [[/apply bleeding save]]. Each time the [[lookup @name]] inflicts bleeding on a creature, they can shift 2 and make an additional free strike on a new target.</p>",
+              "value": "<p>The [[lookup @name]]'s free strikes inflict [[op M weak]] [[/apply bleeding save]]. Each time the [[lookup @name]] inflicts bleeding on a creature, they can shift 2 and make an additional free strike on a new target.</p>",
               "director": ""
             },
             "source": {
@@ -11893,7 +11893,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they create a line equal to 2 × their size centered on their space of iron shards on the ground until the end of the encounter. You or any ally has cover and damage immunity 2 while occupying an affected square.</p>",
+              "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they create a line equal to 2 x their size centered on their space of iron shards on the ground until the end of the encounter. You or any ally has cover and damage immunity 2 while occupying an affected square.</p>",
               "director": ""
             },
             "source": {
@@ -12186,7 +12186,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] doesn’t provoke opportunity attacks by moving.</p>",
+              "value": "<p>The [[lookup @name]] doesn't provoke opportunity attacks by moving.</p>",
               "director": ""
             },
             "source": {
@@ -12297,7 +12297,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>Your champion is an Aspect of a demon lord. They have borne witness to your exploits and struck a deal with you: Allow their children to feed and you can call forth a modicum of their power. Morality is none of their concern, but certainly a hero is enough of an arbiter of whose souls deserve to be fed to demons, right?</p><p>The demon lord’s Aspect enjoys bringing enemies in close with their appendages or flinging victims and throwing them to the gnashing horde. They’re willing to put your connection to this world at risk if it means taking one more bite.</p>",
+          "value": "<p>Your champion is an Aspect of a demon lord. They have borne witness to your exploits and struck a deal with you: Allow their children to feed and you can call forth a modicum of their power. Morality is none of their concern, but certainly a hero is enough of an arbiter of whose souls deserve to be fed to demons, right?</p><p>The demon lord's Aspect enjoys bringing enemies in close with their appendages or flinging victims and throwing them to the gnashing horde. They're willing to put your connection to this world at risk if it means taking one more bite.</p>",
           "director": "",
           "languages": []
         },
@@ -12668,7 +12668,7 @@
               "effects": {}
             },
             "effect": {
-              "before": "<p>The [[lookup @name]] has a double edge on their next power roll. They can choose to give this benefit to an ally within your Summoner’s Range instead.</p>",
+              "before": "<p>The [[lookup @name]] has a double edge on their next power roll. They can choose to give this benefit to an ally within your Summoner's Range instead.</p>",
               "after": ""
             },
             "spend": {
@@ -12953,7 +12953,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -13148,7 +13148,7 @@
             },
             "effect": {
               "before": "",
-              "after": "<p>A twisted target can’t take advantage of edges or search for hidden creatures until the condition ends.</p>"
+              "after": "<p>A twisted target can't take advantage of edges or search for hidden creatures until the condition ends.</p>"
             },
             "spend": {
               "text": "",
@@ -13179,7 +13179,7 @@
                 "expiry": null,
                 "expired": false
               },
-              "description": "<p>A twisted target can’t take advantage of edges or search for hidden creatures until the condition ends.</p>",
+              "description": "<p>A twisted target can't take advantage of edges or search for hidden creatures until the condition ends.</p>",
               "tint": "#ffffff",
               "statuses": [],
               "showIcon": 1,
@@ -13513,7 +13513,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] can move through other creatures and objects at normal speed. The first time in a round that the [[lookup @name]] passes through a creature, that creature takes [[/damage 3 corruption]] and has a bane on their next strike. The [[lookup @name]] doesn’t take damage from being force moved into objects.</p>",
+              "value": "<p>The [[lookup @name]] can move through other creatures and objects at normal speed. The first time in a round that the [[lookup @name]] passes through a creature, that creature takes [[/damage 3 corruption]] and has a bane on their next strike. The [[lookup @name]] doesn't take damage from being force moved into objects.</p>",
               "director": ""
             },
             "source": {
@@ -14273,7 +14273,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] doesn’t provoke opportunity attacks by moving.</p>",
+              "value": "<p>The [[lookup @name]] doesn't provoke opportunity attacks by moving.</p>",
               "director": ""
             },
             "source": {
@@ -14643,7 +14643,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee strikes inflict P &lt; your P [[/apply bleeding save]]. While bleeding this way, the target can’t roll lower than a 3 on the die used to resolve bleeding damage.</p>",
+              "value": "<p>The [[lookup @name]]'s melee strikes inflict [[op P strong]] [[/apply bleeding save]]. While bleeding this way, the target can't roll lower than a 3 on the die used to resolve bleeding damage.</p>",
               "director": ""
             },
             "source": {
@@ -14754,7 +14754,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>Your champion is an Avatar of death. The number of creatures you and your army have laid to rest now hangs above your head and threatens to crush your skull at any moment. You were unable to gain the power of the ultimate force of nature without a memento mori to keep you humble.</p><p>The Avatar of death weighs down their foes with conditions so their army can take care of the rest. If an enemy can’t handle it, well then maybe they should just die.</p>",
+          "value": "<p>Your champion is an Avatar of death. The number of creatures you and your army have laid to rest now hangs above your head and threatens to crush your skull at any moment. You were unable to gain the power of the ultimate force of nature without a memento mori to keep you humble.</p><p>The Avatar of death weighs down their foes with conditions so their army can take care of the rest. If an enemy can't handle it, well then maybe they should just die.</p>",
           "director": "",
           "languages": []
         },
@@ -15055,7 +15055,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee free strikes P &lt; your P - 2 instantly reduce a winded non-leader or solo creature to 0 Stamina, including targets winded by the strike.</p>",
+              "value": "<p>The [[lookup @name]]'s melee free strikes [[op P weak]] instantly reduce a winded non-leader or solo creature to 0 Stamina, including targets winded by the strike.</p>",
               "director": ""
             },
             "source": {
@@ -15267,7 +15267,7 @@
             },
             "effect": {
               "before": "",
-              "after": "<p>If the target is a creature that isn’t a leader or a solo and they are still bleeding at the end of the encounter, they instantly die.</p>"
+              "after": "<p>If the target is a creature that isn't a leader or a solo and they are still bleeding at the end of the encounter, they instantly die.</p>"
             },
             "spend": {
               "text": "",
@@ -15336,7 +15336,7 @@
               "effects": {}
             },
             "effect": {
-              "before": "<p>M &lt; your M - 1 [[/apply weakened turn]].</p>",
+              "before": "<p>[[op M average]] [[/apply weakened turn]].</p>",
               "after": ""
             },
             "spend": {
@@ -15583,7 +15583,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s ranged free strikes have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this [[lookup @name]] can’t shift until the start of the [[lookup @name]]’s next turn.</p>",
+              "value": "<p>The [[lookup @name]]'s ranged free strikes have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this [[lookup @name]] can't shift until the start of the [[lookup @name]]'s next turn.</p>",
               "director": ""
             },
             "source": {
@@ -15660,7 +15660,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -15997,7 +15997,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee free strikes have a distance of your Reason and inflict M &lt; your M [[//apply grabbed]]. The [[lookup @name]] can have an unlimited number of creatures or objects grabbed. A creature grabbed by this strike still has their normal speed, but can’t move farther away from the principle.</p>",
+              "value": "<p>The [[lookup @name]]'s melee free strikes have a distance of your Reason and inflict [[op M strong]] [[//apply grabbed]]. The [[lookup @name]] can have an unlimited number of creatures or objects grabbed. A creature grabbed by this strike still has their normal speed, but can't move farther away from the principle.</p>",
               "director": ""
             },
             "source": {
@@ -16108,7 +16108,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>These elementals are blazing white avian-shaped beings that are nearly impossible to perceive directly. Between a light of the sun’s talons is a massive glowing sword that can split the heaviest of defenses asunder.</p>",
+          "value": "<p>These elementals are blazing white avian-shaped beings that are nearly impossible to perceive directly. Between a light of the sun's talons is a massive glowing sword that can split the heaviest of defenses asunder.</p>",
           "director": "",
           "languages": []
         },
@@ -16788,7 +16788,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>Once per turn, the [[lookup @name]] can transform into an adjacent allied signature minion, maintaining their current Stamina. The minion must be reassigned to a new squad if their new name differs from the other squad members.</p><p>Alternatively, you can spend 1 essence to transform the [[lookup @name]] into any signature minion in the elemental portfolio you don’t have, as if you summoned the new minion into the [[lookup @name]]'s space.</p>",
+              "value": "<p>Once per turn, the [[lookup @name]] can transform into an adjacent allied signature minion, maintaining their current Stamina. The minion must be reassigned to a new squad if their new name differs from the other squad members.</p><p>Alternatively, you can spend 1 essence to transform the [[lookup @name]] into any signature minion in the elemental portfolio you don't have, as if you summoned the new minion into the [[lookup @name]]'s space.</p>",
               "director": ""
             },
             "source": {
@@ -16860,7 +16860,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>The gorrre demons evoke features of rhino and orangutan while clad in heavy armor. They’ve been utilized as jail guards by devils, as few prisoners can ever hope to outrun a monster with unlimited endurance.</p>",
+          "value": "<p>The gorrre demons evoke features of rhino and orangutan while clad in heavy armor. They've been utilized as jail guards by devils, as few prisoners can ever hope to outrun a monster with unlimited endurance.</p>",
           "director": "",
           "languages": []
         },
@@ -17040,7 +17040,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -17080,7 +17080,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] must charge before making a strike. The target is M &lt; your M [[/apply prone]]{knocked prone} if the [[lookup @name]] moved through an enemy or object other than the target during the charge.</p>",
+              "value": "<p>The [[lookup @name]] must charge before making a strike. The target is [[op M strong]] [[/apply prone]]{knocked prone} if the [[lookup @name]] moved through an enemy or object other than the target during the charge.</p>",
               "director": ""
             },
             "source": {
@@ -17191,7 +17191,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>The violents are lanky, oily bipeds with bright red flesh that contort and snap their bodies into unassuming objects. Their mimicry is particularly precise, to the point where it’s unclear whether their victims die from the surprise or the violent transformation process first.</p>",
+          "value": "<p>The violents are lanky, oily bipeds with bright red flesh that contort and snap their bodies into unassuming objects. Their mimicry is particularly precise, to the point where it's unclear whether their victims die from the surprise or the violent transformation process first.</p>",
           "director": "",
           "languages": []
         },
@@ -17489,7 +17489,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -17821,7 +17821,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -18060,7 +18060,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>These massive, animated ogre corpses still maintain their incredible grip strength. When a lumberer falls, they’ll take anything within reach down with them.</p>",
+          "value": "<p>These massive, animated ogre corpses still maintain their incredible grip strength. When a lumberer falls, they'll take anything within reach down with them.</p>",
           "director": "",
           "languages": []
         },
@@ -18280,7 +18280,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee free strikes inflict A &lt; your A - 1 [[/apply grabbed]]. A creature or object that starts their turn grabbed by the [[lookup @name]] takes corruption damage equal to your Reason.</p>",
+              "value": "<p>The [[lookup @name]]'s melee free strikes inflict [[op A average]] [[/apply grabbed]]. A creature or object that starts their turn grabbed by the [[lookup @name]] takes corruption damage equal to your Reason.</p>",
               "director": ""
             },
             "source": {
@@ -18319,7 +18319,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they can latch onto an adjacent enemy before being destroyed. The enemy is M &lt; your M [[/apply restrained turn]].</p>",
+              "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they can latch onto an adjacent enemy before being destroyed. The enemy is [[op M strong]] [[/apply restrained turn]].</p>",
               "director": ""
             },
             "source": {
@@ -18434,7 +18434,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>It’s difficult to identify the base nature of a vicisittante apart from an ever-changing mass of burning flesh. Any surface they touch immediately scars as the demon leaves parts of themselves behind.</p>",
+          "value": "<p>It's difficult to identify the base nature of a vicisittante apart from an ever-changing mass of burning flesh. Any surface they touch immediately scars as the demon leaves parts of themselves behind.</p>",
           "director": "",
           "languages": []
         },
@@ -18651,7 +18651,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -19071,7 +19071,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee free strikes inflict (M &lt; your M - 2) [[/apply weakened turn]]. The potency is increased by the current round number.</p>",
+              "value": "<p>The [[lookup @name]]'s melee free strikes inflict [[op M weak]] [[/apply weakened turn]]. The potency is increased by the current round number.</p>",
               "director": ""
             },
             "source": {
@@ -19110,7 +19110,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] doesn’t provoke opportunity attacks by moving.</p>",
+              "value": "<p>The [[lookup @name]] doesn't provoke opportunity attacks by moving.</p>",
               "director": ""
             },
             "source": {
@@ -19148,7 +19148,7 @@
           "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
           "system": {
             "description": {
-              "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+              "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
               "director": ""
             },
             "source": {
@@ -19403,7 +19403,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -19862,7 +19862,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]’s free strikes grant an edge to the next strike made against the target, or a double edge if two or more [[lookup @name]]s strike the same target.</p>",
+              "value": "<p>The [[lookup @name]]'s free strikes grant an edge to the next strike made against the target, or a double edge if two or more [[lookup @name]]s strike the same target.</p>",
               "director": ""
             },
             "source": {
@@ -19940,7 +19940,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+              "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
               "director": ""
             },
             "source": {
@@ -20407,7 +20407,7 @@
             },
             "effect": {
               "before": "",
-              "after": "<p>A target can’t shift while bleeding from this ability.</p>"
+              "after": "<p>A target can't shift while bleeding from this ability.</p>"
             },
             "spend": {
               "text": "",
@@ -20775,7 +20775,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>At the end of the [[lookup @name]]'s turn, each enemy within 1 of the [[lookup @name]] takes [[/damage 2 sonix]] and can’t shift until the start of the [[lookup @name]]'s next turn.</p>",
+              "value": "<p>At the end of the [[lookup @name]]'s turn, each enemy within 1 of the [[lookup @name]] takes [[/damage 2 sonix]] and can't shift until the start of the [[lookup @name]]'s next turn.</p>",
               "director": ""
             },
             "source": {
@@ -20814,7 +20814,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s shape can’t change via any external effects.</p>",
+              "value": "<p>The [[lookup @name]]'s shape can't change via any external effects.</p>",
               "director": ""
             },
             "source": {
@@ -20925,7 +20925,7 @@
           "turns": 1
         },
         "biography": {
-          "value": "<p>Your champion is a Portent of a dragon yet to manifest. Through defending the innocent, you have made yourself and your elementals a close neighbor to the malice that threatens them. The dragon desires you bring their creation about and lends you strength to see your justice through.</p><p>As a harbinger of ruin, the dragon’s Portent has incredibly potent impact and control of the environment. Their final shape has yet to be determined; use this to your advantage and call upon the affinity that will end conflict the quickest.</p>",
+          "value": "<p>Your champion is a Portent of a dragon yet to manifest. Through defending the innocent, you have made yourself and your elementals a close neighbor to the malice that threatens them. The dragon desires you bring their creation about and lends you strength to see your justice through.</p><p>As a harbinger of ruin, the dragon's Portent has incredibly potent impact and control of the environment. Their final shape has yet to be determined; use this to your advantage and call upon the affinity that will end conflict the quickest.</p>",
           "director": "",
           "languages": []
         },
@@ -21144,7 +21144,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]] selects an affinity for one of the following damage types when they are summoned: acid, cold, corruption, fire, lightning, or poison. This type determines the Portent’s affinity immunity, free strikes, and the damage type of their abilities.</p>",
+              "value": "<p>The [[lookup @name]] selects an affinity for one of the following damage types when they are summoned: acid, cold, corruption, fire, lightning, or poison. This type determines the Portent's affinity immunity, free strikes, and the damage type of their abilities.</p>",
               "director": ""
             },
             "source": {
@@ -21183,7 +21183,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s free strikes inflict M &lt; your M [[/apply slowed save]]. While slowed this way, the target takes [[/damage 1d6]]{1d6 affinity damage} at the start of each of their turns.</p>",
+              "value": "<p>The [[lookup @name]]'s free strikes inflict [[op M strong]] [[/apply slowed save]]. While slowed this way, the target takes [[/damage 1d6]]{1d6 affinity damage} at the start of each of their turns.</p>",
               "director": ""
             },
             "source": {
@@ -21300,7 +21300,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>Once per turn, the [[lookup @name]] can take [[/damage 10]] to allow you or an ally within your Summoner’s Range to gain 1 heroic resource. This damage can’t be reduced in any way.</p>",
+              "value": "<p>Once per turn, the [[lookup @name]] can take [[/damage 10]] to allow you or an ally within your Summoner's Range to gain 1 heroic resource. This damage can't be reduced in any way.</p>",
               "director": ""
             },
             "source": {
