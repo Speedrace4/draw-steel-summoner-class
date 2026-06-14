@@ -12,7 +12,7 @@
   "packs": [
     {
       "name": "summoner-class",
-      "label": "Summoner Cass",
+      "label": "Summoner Class",
       "path": "packs/summoner-class",
       "type": "Item",
       "ownership": {
