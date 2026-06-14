@@ -62,5 +62,6 @@ const enricherConfig = {
 };
 
 Hooks.on("init", () => {
+    console.log(`draw-steel-summoner-class | Initializing Draw Steel - Summoner Class`);
     CONFIG.TextEditor.enrichers.push(enricherConfig);
 });
