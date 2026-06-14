@@ -1,0 +1,52 @@
+{
+  "id": "draw-steel-summoner-class",
+  "title": "Draw Steel - Summoner Class",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "summoner-class",
+      "label": "Summoner Cass",
+      "path": "packs/summoner-class",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "draw-steel",
+      "flags": {}
+    },
+    {
+      "name": "summoner-minions",
+      "label": "Summoner Minions",
+      "path": "packs/summoner-minions",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "draw-steel",
+      "flags": {}
+    },
+    {
+      "name": "summoner-kits",
+      "label": "Summoner Kits",
+      "path": "packs/summoner-kits",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "draw-steel",
+      "flags": {}
+    }
+  ],
+  "action": "manageModule",
+  "description": ""
+}
