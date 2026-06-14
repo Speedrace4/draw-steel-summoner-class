@@ -929,7 +929,7 @@
           "img": "icons/svg/item-bag.svg",
           "system": {
             "description": {
-              "value": "<p>The [[lookup @name]]'s melee strikes inflict push 4. If the target is force moved into an object, they are M &lt; your M - 1 [[/apply prone]]{knocked prone} and can’t stand (save ends).</p>",
+              "value": "<p>The [[lookup @name]]'s melee strikes inflict push 4. If the target is force moved into an object, they are [[M &lt; your M - 1]] [[/apply prone]]{knocked prone} and can’t stand (save ends).</p>",
               "director": ""
             },
             "source": {
