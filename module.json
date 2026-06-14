@@ -1,11 +1,21 @@
 {
   "id": "draw-steel-summoner-class",
   "title": "Draw Steel - Summoner Class",
+  "description": "A module that adds the Summoner class for Draw Steel.",
+  "url": "https://github.com/Speedrace4/draw-steel-summoner-class",
+  "bugs": "https://github.com/Speedrace4/draw-steel-summoner-class/issues",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
   },
+  "authors": [
+    {
+      "name": "wow2",
+      "url": "https://github.com/Speedrace4",
+      "discord": "wow2"
+    }
+  ],
   "flags": {
     "canUpload": true
   },
@@ -47,6 +57,26 @@
       "flags": {}
     }
   ],
-  "action": "manageModule",
-  "description": ""
+  "relationships": {
+    "systems": [
+      {
+        "id": "draw-steel",
+        "type": "system",
+        "compatibility": {
+          "minimum": "1.0.0",
+          "verified": "1.0.0"
+        }
+      }
+    ]
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "manifest": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/latest/download/module.json",
+  "download": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/latest/download/module.zip",
+  "readme": "https://github.com/Speedrace4/draw-steel-summoner-class/blob/master/README.md"
 }
