@@ -70,7 +70,7 @@
     ]
   },
   "esmodules": ["scripts/main.js"],
-  "manifest": "https://raw.githubusercontent.com/Speedrace4/draw-steel-summoner-class/refs/heads/adding-potency-enricher/module.json",
+  "manifest": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test/module.json",
   "download": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test/module.zip",
   "readme": "https://github.com/Speedrace4/draw-steel-summoner-class/blob/master/README.md"
 }
