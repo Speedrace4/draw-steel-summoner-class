@@ -1,0 +1,255 @@
+{
+  "package": "draw-steel-summoner-class.summoner-kits",
+  "metadata": {
+    "name": "summoner-kits",
+    "label": "Summoner Kits",
+    "path": "modules/draw-steel-summoner-class/packs/summoner-kits",
+    "type": "Item",
+    "system": "draw-steel",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "flags": {},
+    "packageType": "module",
+    "packageName": "draw-steel-summoner-class",
+    "id": "draw-steel-summoner-class.summoner-kits"
+  },
+  "type": "Item",
+  "items": [
+    {
+      "folder": "gcNzjYzqaDJTbC7w",
+      "name": "Emergency Ward",
+      "type": "feature",
+      "img": "icons/magic/defensive/shield-barrier-glowing-triangle-red.webp",
+      "system": {
+        "description": {
+          "value": "<p>The first time each round you take damage, you can use a free triggered action to shift 1 after the triggering effect resolves and summon a signature minion into the square you left (as long as there is enough space).</p>",
+          "director": ""
+        },
+        "source": {
+          "book": "Summoner",
+          "page": "32",
+          "license": "Draw Steel Creator License"
+        },
+        "_dsid": "emergency-ward",
+        "advancements": {},
+        "prerequisites": {
+          "value": "",
+          "dsid": [
+            "summoner"
+          ],
+          "level": 3
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "createdTime": 1781419066794,
+        "modifiedTime": 1781419066794,
+        "lastModifiedBy": "bULgfeSVOL2yapd0"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_id": "9UZdFGEYlhAt8eBX"
+    },
+    {
+      "folder": "gcNzjYzqaDJTbC7w",
+      "name": "Howling Ward",
+      "type": "feature",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/defensive/shield-barrier-glowing-triangle-magenta.webp",
+      "system": {
+        "description": {
+          "value": "<p>You create a 1-aura vortex of slicing magic around you when you enter combat. An enemy that starts their turn adjacent to you takes [[/damage @R]]{damage equal to your Reason}.</p>",
+          "director": ""
+        },
+        "source": {
+          "book": "Summoner",
+          "page": "32",
+          "license": "Draw Steel Creator License"
+        },
+        "_dsid": "howling-ward",
+        "advancements": {},
+        "prerequisites": {
+          "value": "",
+          "dsid": [
+            "summoner"
+          ],
+          "level": 3
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "createdTime": 1781419066795,
+        "modifiedTime": 1781419066795,
+        "lastModifiedBy": "bULgfeSVOL2yapd0"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_id": "H0KjiRC8GNA5WBwe"
+    },
+    {
+      "folder": "gcNzjYzqaDJTbC7w",
+      "name": "Conjured Ward",
+      "type": "feature",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/defensive/shield-barrier-glowing-triangle-blue-yellow.webp",
+      "system": {
+        "description": {
+          "value": "<p>You are clad in the natural defenses of your portfolio (bones, fairy wood, stone, writhing flesh). You gain a +3 bonus to Stamina and that bonus increases by 3 at 4th, 7th, and 10th levels.</p>",
+          "director": ""
+        },
+        "source": {
+          "book": "Summoner",
+          "page": "32",
+          "license": "Draw Steel Creator License"
+        },
+        "_dsid": "conjured-ward",
+        "advancements": {},
+        "prerequisites": {
+          "value": "",
+          "dsid": [
+            "summoner"
+          ],
+          "level": 3
+        }
+      },
+      "effects": [
+        {
+          "name": "Conjured Ward",
+          "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/defensive/shield-barrier-glowing-triangle-blue-yellow.webp",
+          "type": "base",
+          "origin": "Compendium.world.complications-perks-kits.Item.SrNnnIB1IhdIqQv9",
+          "transfer": true,
+          "_id": "R8A2Qt2Zb4nBM1Ml",
+          "system": {
+            "changes": [
+              {
+                "key": "system.stamina.bonuses.echelon",
+                "type": "add",
+                "value": 3,
+                "phase": "initial",
+                "priority": null
+              }
+            ],
+            "end": {
+              "roll": "1d10 + @combat.save.bonus"
+            }
+          },
+          "disabled": false,
+          "start": null,
+          "duration": {
+            "value": null,
+            "units": "seconds",
+            "expiry": null,
+            "expired": false
+          },
+          "description": "",
+          "tint": "#ffffff",
+          "statuses": [],
+          "showIcon": 1,
+          "folder": null,
+          "sort": 0,
+          "flags": {},
+          "_stats": {
+            "coreVersion": "14.360",
+            "systemId": "draw-steel",
+            "systemVersion": "1.0.2",
+            "createdTime": 1781419066796,
+            "modifiedTime": 1781419066796,
+            "lastModifiedBy": "bULgfeSVOL2yapd0"
+          }
+        }
+      ],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "createdTime": 1781419066796,
+        "modifiedTime": 1781419066796,
+        "lastModifiedBy": "bULgfeSVOL2yapd0"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_id": "SrNnnIB1IhdIqQv9"
+    },
+    {
+      "folder": "gcNzjYzqaDJTbC7w",
+      "name": "Snare Ward",
+      "type": "feature",
+      "img": "https://assets.forge-vtt.com/bazaar/core/icons/magic/defensive/shield-barrier-glowing-triangle-green.webp",
+      "system": {
+        "description": {
+          "value": "<p>Whenever an adjacent creature deals damage to you, you can use a free triggered action to pull that creature toward one of your minions within your Summoner’s Range a number of squares equal to your Reason score.</p>",
+          "director": ""
+        },
+        "source": {
+          "book": "Summoner",
+          "page": "32",
+          "license": "Draw Steel Creator License"
+        },
+        "_dsid": "snare-ward",
+        "advancements": {},
+        "prerequisites": {
+          "value": "",
+          "dsid": [
+            "summoner"
+          ],
+          "level": 3
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "createdTime": 1781419066797,
+        "modifiedTime": 1781419066797,
+        "lastModifiedBy": "bULgfeSVOL2yapd0"
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_id": "VKW9qDHCunLecjtl"
+    }
+  ],
+  "source": {
+    "world": "dark-heart-of-the-wood",
+    "system": "draw-steel",
+    "version": {
+      "core": "14.360",
+      "system": "1.0.2"
+    }
+  },
+  "folders": [
+    {
+      "type": "Item",
+      "folder": null,
+      "name": "Summoner's Kit",
+      "color": null,
+      "sorting": "a",
+      "description": "",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "lastModifiedBy": "bULgfeSVOL2yapd0",
+        "modifiedTime": 1781419066601,
+        "createdTime": 1781419066601
+      },
+      "_id": "gcNzjYzqaDJTbC7w"
+    }
+  ]
+}
