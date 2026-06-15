@@ -77,7 +77,7 @@
     }
   ],
   "esmodules": ["scripts/main.js"],
-  "manifest": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test/module.json",
-  "download": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test/module.zip",
+  "manifest": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test3/module.json",
+  "download": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test3/module.zip",
   "readme": "https://github.com/Speedrace4/draw-steel-summoner-class/blob/master/README.md"
 }
