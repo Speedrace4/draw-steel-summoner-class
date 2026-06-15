@@ -1,0 +1,25 @@
+{
+  "name": "draw-steel-summoner-class",
+  "version": "1.0.0",
+  "description": "Adds the Summoner class for Draw Steel to FoundryVTT.",
+  "scripts": {
+    "pullJSONtoLDB": "node ./tools/pullJSONtoLDB.mjs",
+    "pushLDBtoJSON": "node ./tools/pushLDBtoJSON.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Speedrace4/draw-steel-summoner-class.git"
+  },
+  "author": "wow2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Speedrace4/draw-steel-summoner-class/issues"
+  },
+  "homepage": "https://github.com/Speedrace4/draw-steel-summoner-class#readme",
+  "dependencies": {
+    "eslint": "^10.5.0"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.3"
+  }
+}
