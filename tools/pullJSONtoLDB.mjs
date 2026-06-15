@@ -5,7 +5,7 @@ const PACKAGE_ID = process.cwd();
 const yaml = false;
 const folders = true;
 
-const packs = await fs.readdir('./packs');
+const packs = await fs.readdir('./src/packs');
 for (const pack of packs) {
   if (pack.startsWith(".")) continue;
   console.log('Packing ' + pack);
