@@ -69,6 +69,13 @@
       }
     ]
   },
+  "packFolders": [
+    {
+      "name": "Summoner Compendium",
+      "color": "#28AD7E",
+      "packs": ["summoner-class", "summoner-kits", "summoner-minions"]
+    }
+  ],
   "esmodules": ["scripts/main.js"],
   "manifest": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test/module.json",
   "download": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test/module.zip",

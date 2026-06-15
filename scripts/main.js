@@ -2,7 +2,7 @@ async function ownerPotencyEnricher (match, options) {
   const attribute = match[2].toUpperCase();
   const attributeLetter = match[2][0].toUpperCase();
   const strength = match[3].toLowerCase();
-  const defaultReturnVal = "your " + attributeLetter;
+  const defaultReturnVal = match[0];
   const ownerUuid = options?.relativeTo?.parent?.flags?.world?.ownerUuid ?? null;
   if (!ownerUuid || !strength in ds.CONST.potencyStrengths) {
     return defaultReturnVal;
