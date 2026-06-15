@@ -1,0 +1,29 @@
+{
+  "name": "Unset Minion Owner",
+  "type": "script",
+  "command": "function getActorsFromFolder(folder) {\n  if (!folder) {\n    return [];\n  }\n  let actors = [];\n  if (Object.hasOwn(folder, \"entries\")) {\n    actors = folder.entries\n  } else {\n    actors = folder.contents\n  }\n  const subFolders = folder.children;\n  if (subFolders.length > 0) {\n    for (let i = 0; i < subFolders.length; i++) {\n      actors = actors.concat(getActorsFromFolder(subFolders[i]))\n    }\n  }\n  return actors\n}\n\nlet folderUUID = \"\";\n\ntry {\n  folderUUID = await Dialog.prompt({\n      title: \"Unset Minion Owner\",\n      content: `<label>Paste the folder UUID of the folder containing your minions here (click on folder in actors -> edit folder -> copy Document UUID in the top right)</label><input type=\"text\" placeholder=\"Folder.uuid\">`,\n      callback: (html) => html.find('input')?.val()\n  })\n} catch (error) {\n  console.log(\"draw-steel-summoner-class | User closed unsetting minion owner dialog.\")\n  return;\n}\n\nfolderUUID = folderUUID.replace(\"Folder.\", \"\")\nconst folder = await game.folders.get(folderUUID);\n\nif (!folder) {\n  ui.notifications.error(`Could not find folder with UUID ${folderUUID}.`);\n  return;\n}\n\nlet minions = getActorsFromFolder(folder);\n\nif (minions.length <= 0) {\n  ui.notifications.error(\"Found no minions.\");\n  console.log(\"draw-steel-summoner-class | Found no minions.\")\n  return;\n}\n\nfor (let i = 0; i < minions.length; i++) {\n  await minions[i].unsetFlag(\"world\", \"ownerUuid\");\n}\nui.notifications.info(`Unlinked minions in folder.`);",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781491440909,
+    "modifiedTime": 1781493007915,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "compendiumSource": null,
+    "duplicateSource": "Macro.6anB2qmFvcU1BCwl",
+    "exportSource": {
+      "worldId": "dark-heart-of-the-wood",
+      "uuid": "Macro.6anB2qmFvcU1BCwl",
+      "coreVersion": "14.360",
+      "systemId": "draw-steel",
+      "systemVersion": "1.0.2"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}
