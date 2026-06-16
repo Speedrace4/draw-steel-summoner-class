@@ -23,7 +23,7 @@
       "turns": 1
     },
     "biography": {
-      "value": "<p>Your champion is an Aspect of a demon lord. They have borne witness to your exploits and struck a deal with you: Allow their children to feed and you can call forth a modicum of their power. Morality is none of their concern, but certainly a hero is enough of an arbiter of whose souls deserve to be fed to demons, right?</p><p>The demon lord’s Aspect enjoys bringing enemies in close with their appendages or flinging victims and throwing them to the gnashing horde. They’re willing to put your connection to this world at risk if it means taking one more bite.</p>",
+      "value": "<p>Your champion is an Aspect of a demon lord. They have borne witness to your exploits and struck a deal with you: Allow their children to feed and you can call forth a modicum of their power. Morality is none of their concern, but certainly a hero is enough of an arbiter of whose souls deserve to be fed to demons, right?</p><p>The demon lord's Aspect enjoys bringing enemies in close with their appendages or flinging victims and throwing them to the gnashing horde. They're willing to put your connection to this world at risk if it means taking one more bite.</p>",
       "director": "",
       "languages": []
     },
@@ -414,7 +414,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>The [[lookup @name]] has a double edge on their next power roll. They can choose to give this benefit to an ally within your Summoner’s Range instead.</p>",
+          "before": "<p>The [[lookup @name]] has a double edge on their next power roll. They can choose to give this benefit to an ally within your Summoner's Range instead.</p>",
           "after": ""
         },
         "spend": {

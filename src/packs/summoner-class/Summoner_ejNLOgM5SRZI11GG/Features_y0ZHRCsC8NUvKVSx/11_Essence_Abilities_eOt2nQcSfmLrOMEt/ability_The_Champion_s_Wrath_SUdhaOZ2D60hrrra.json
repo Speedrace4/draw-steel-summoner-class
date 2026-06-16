@@ -165,7 +165,7 @@
     },
     "effect": {
       "before": "",
-      "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p><p>You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion). For each enemy reduced to 0 Stamina by this ability, an ally within distance can move up to their speed.</p>"
+      "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p><p>You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion). For each enemy reduced to 0 Stamina by this ability, an ally within distance can move up to their speed.</p>"
     },
     "spend": {
       "text": "",

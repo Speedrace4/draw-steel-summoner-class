@@ -18,7 +18,7 @@
       ],
       "level": null
     },
-    "story": "You pierce your foe and repurpose some of that ’fiber of their being’ they weren’t using.",
+    "story": "You pierce your foe and repurpose some of that 'fiber of their being' they weren't using.",
     "keywords": [
       "magic",
       "melee",
@@ -125,7 +125,7 @@
     },
     "effect": {
       "before": "",
-      "after": "<p>You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.</p><p><strong>1 charge</strong>: You or an ally within your Summoner’s Range can spend a Recovery.</p><p><strong>1 charge</strong>: You or an ally within your Summoner’s Range gain a surge.</p><p><strong>2 charges</strong>: You call forth a signature minion into an unoccupied space within your Summoner’s Range.</p>"
+      "after": "<p>You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.</p><p><strong>1 charge</strong>: You or an ally within your Summoner's Range can spend a Recovery.</p><p><strong>1 charge</strong>: You or an ally within your Summoner's Range gain a surge.</p><p><strong>2 charges</strong>: You call forth a signature minion into an unoccupied space within your Summoner's Range.</p>"
     },
     "spend": {
       "text": "",

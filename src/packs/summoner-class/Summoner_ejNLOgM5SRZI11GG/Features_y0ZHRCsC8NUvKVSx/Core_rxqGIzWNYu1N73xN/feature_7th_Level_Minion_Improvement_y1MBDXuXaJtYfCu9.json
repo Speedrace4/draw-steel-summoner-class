@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>At the start of each of your turns during combat, you can summon one additional signature minion at no cost into an unoccupied space within your Summoner’s Range (no action required).</p><p>Additionally, you can increase each of your minions’ Stamina as shown on the 7th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 4).</p><p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>",
+      "value": "<p>At the start of each of your turns during combat, you can summon one additional signature minion at no cost into an unoccupied space within your Summoner's Range (no action required).</p><p>Additionally, you can increase each of your minions' Stamina as shown on the 7th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 4).</p><p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>",
       "director": ""
     },
     "source": {

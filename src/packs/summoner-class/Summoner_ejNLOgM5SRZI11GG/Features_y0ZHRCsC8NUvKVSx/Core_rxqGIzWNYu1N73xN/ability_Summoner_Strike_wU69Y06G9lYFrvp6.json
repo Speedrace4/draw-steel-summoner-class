@@ -33,7 +33,7 @@
       "custom": ""
     },
     "effect": {
-      "before": "<p>Effect: [[lookup @R]] damage. If the target has [[potency R weak]], they are [[/apply slowed save]].</p><p>Special: This ability has the Charge keyword when it’s used as a melee strike.</p>",
+      "before": "<p>Effect: [[lookup @R]] damage. If the target has [[potency R weak]], they are [[/apply slowed save]].</p><p>Special: This ability has the Charge keyword when it's used as a melee strike.</p>",
       "after": ""
     },
     "spend": {

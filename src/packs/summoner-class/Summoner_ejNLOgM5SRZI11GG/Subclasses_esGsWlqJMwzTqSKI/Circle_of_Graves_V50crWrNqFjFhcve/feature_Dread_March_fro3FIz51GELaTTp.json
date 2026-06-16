@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>You and your undead minions don’t spend additional speed to move through difficult terrain. If one or more of your undead minions would die while using their move action, they can choose to not die until the end of your turn.</p>",
+      "value": "<p>You and your undead minions don't spend additional speed to move through difficult terrain. If one or more of your undead minions would die while using their move action, they can choose to not die until the end of your turn.</p>",
       "director": ""
     },
     "source": {

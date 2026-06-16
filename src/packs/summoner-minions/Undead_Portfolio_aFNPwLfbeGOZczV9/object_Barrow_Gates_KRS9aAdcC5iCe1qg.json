@@ -178,7 +178,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Each enemy that starts their turn within 3 squares of the [[lookup @name]] is I &lt; your I - 1 [[/apply frightened turn]] by the [[lookup @name]]. The potency increases by 1 for winded enemies.</p>",
+          "value": "<p>Each enemy that starts their turn within 3 squares of the [[lookup @name]] is [[op I average]] [[/apply frightened turn]] by the [[lookup @name]]. The potency increases by 1 for winded enemies.</p>",
           "director": ""
         },
         "source": {

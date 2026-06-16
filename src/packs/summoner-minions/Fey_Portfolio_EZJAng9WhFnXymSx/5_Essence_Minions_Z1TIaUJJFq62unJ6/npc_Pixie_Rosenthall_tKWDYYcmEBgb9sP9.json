@@ -423,7 +423,7 @@
         },
         "effect": {
           "before": "",
-          "after": "<p>A target can’t shift while bleeding from this ability.</p>"
+          "after": "<p>A target can't shift while bleeding from this ability.</p>"
         },
         "spend": {
           "text": "",

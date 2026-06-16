@@ -203,7 +203,7 @@
       "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
       "system": {
         "description": {
-          "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+          "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
           "director": ""
         },
         "source": {
@@ -408,7 +408,7 @@
         },
         "effect": {
           "before": "",
-          "after": "<p>A twisted target can’t take advantage of edges or search for hidden creatures until the condition ends.</p>"
+          "after": "<p>A twisted target can't take advantage of edges or search for hidden creatures until the condition ends.</p>"
         },
         "spend": {
           "text": "",
@@ -439,7 +439,7 @@
             "expiry": null,
             "expired": false
           },
-          "description": "<p>A twisted target can’t take advantage of edges or search for hidden creatures until the condition ends.</p>",
+          "description": "<p>A twisted target can't take advantage of edges or search for hidden creatures until the condition ends.</p>",
           "tint": "#ffffff",
           "statuses": [],
           "showIcon": 1,

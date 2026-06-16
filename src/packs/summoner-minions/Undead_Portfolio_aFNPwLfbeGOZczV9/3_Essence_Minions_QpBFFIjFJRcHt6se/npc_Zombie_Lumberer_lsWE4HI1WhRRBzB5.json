@@ -248,7 +248,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s melee free strikes inflict A &lt; your A - 1 [[/apply grabbed]]. A creature or object that starts their turn grabbed by the [[lookup @name]] takes corruption damage equal to your Reason.</p>",
+          "value": "<p>The [[lookup @name]]'s melee free strikes inflict [[op A average]] [[/apply grabbed]]. A creature or object that starts their turn grabbed by the [[lookup @name]] takes corruption damage equal to your Reason.</p>",
           "director": ""
         },
         "source": {
@@ -292,7 +292,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they can latch onto an adjacent enemy before being destroyed. The enemy is M &lt; your M [[/apply restrained turn]].</p>",
+          "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they can latch onto an adjacent enemy before being destroyed. The enemy is [[op M strong]] [[/apply restrained turn]].</p>",
           "director": ""
         },
         "source": {

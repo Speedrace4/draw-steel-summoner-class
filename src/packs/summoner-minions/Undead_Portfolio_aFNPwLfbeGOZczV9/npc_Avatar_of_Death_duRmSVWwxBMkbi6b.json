@@ -23,7 +23,7 @@
       "turns": 1
     },
     "biography": {
-      "value": "<p>Your champion is an Avatar of death. The number of creatures you and your army have laid to rest now hangs above your head and threatens to crush your skull at any moment. You were unable to gain the power of the ultimate force of nature without a memento mori to keep you humble.</p><p>The Avatar of death weighs down their foes with conditions so their army can take care of the rest. If an enemy can’t handle it, well then maybe they should just die.</p>",
+      "value": "<p>Your champion is an Avatar of death. The number of creatures you and your army have laid to rest now hangs above your head and threatens to crush your skull at any moment. You were unable to gain the power of the ultimate force of nature without a memento mori to keep you humble.</p><p>The Avatar of death weighs down their foes with conditions so their army can take care of the rest. If an enemy can't handle it, well then maybe they should just die.</p>",
       "director": "",
       "languages": []
     },
@@ -339,7 +339,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s melee free strikes P &lt; your P - 2 instantly reduce a winded non-leader or solo creature to 0 Stamina, including targets winded by the strike.</p>",
+          "value": "<p>The [[lookup @name]]'s melee free strikes [[op P weak]] instantly reduce a winded non-leader or solo creature to 0 Stamina, including targets winded by the strike.</p>",
           "director": ""
         },
         "source": {
@@ -561,7 +561,7 @@
         },
         "effect": {
           "before": "",
-          "after": "<p>If the target is a creature that isn’t a leader or a solo and they are still bleeding at the end of the encounter, they instantly die.</p>"
+          "after": "<p>If the target is a creature that isn't a leader or a solo and they are still bleeding at the end of the encounter, they instantly die.</p>"
         },
         "spend": {
           "text": "",
@@ -635,7 +635,7 @@
           "effects": {}
         },
         "effect": {
-          "before": "<p>M &lt; your M - 1 [[/apply weakened turn]].</p>",
+          "before": "<p>[[op M average]] [[/apply weakened turn]].</p>",
           "after": ""
         },
         "spend": {

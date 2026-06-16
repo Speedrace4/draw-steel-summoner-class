@@ -249,7 +249,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Once per turn, the [[lookup @name]] can transform into an adjacent allied signature minion, maintaining their current Stamina. The minion must be reassigned to a new squad if their new name differs from the other squad members.</p><p>Alternatively, you can spend 1 essence to transform the [[lookup @name]] into any signature minion in the elemental portfolio you don’t have, as if you summoned the new minion into the [[lookup @name]]'s space.</p>",
+          "value": "<p>Once per turn, the [[lookup @name]] can transform into an adjacent allied signature minion, maintaining their current Stamina. The minion must be reassigned to a new squad if their new name differs from the other squad members.</p><p>Alternatively, you can spend 1 essence to transform the [[lookup @name]] into any signature minion in the elemental portfolio you don't have, as if you summoned the new minion into the [[lookup @name]]'s space.</p>",
           "director": ""
         },
         "source": {

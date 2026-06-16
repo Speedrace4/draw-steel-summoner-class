@@ -146,7 +146,7 @@
     },
     "effect": {
       "before": "",
-      "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p>"
+      "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p>"
     },
     "spend": {
       "text": "",

@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can’t be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.</p><p>Additionally, whenever one of your demon minions Death Snaps, their target is P&lt;W affected by a condition the minion was suffering from. The potency increases by 1 on each subsequent Death Snap the target takes damage from in the same turn (maximum +2).</p>",
+      "value": "<p>As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can't be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.</p><p>Additionally, whenever one of your demon minions Death Snaps, their target is [[op P weak]] affected by a condition the minion was suffering from. The potency increases by 1 on each subsequent Death Snap the target takes damage from in the same turn (maximum +2).</p>",
       "director": ""
     },
     "source": {

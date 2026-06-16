@@ -204,7 +204,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s melee free strikes inflict (M &lt; your M - 2) [[/apply weakened turn]]. The potency is increased by the current round number.</p>",
+          "value": "<p>The [[lookup @name]]'s melee free strikes inflict [[op M weak]] [[/apply weakened turn]]. The potency is increased by the current round number.</p>",
           "director": ""
         },
         "source": {
@@ -248,7 +248,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] doesn’t provoke opportunity attacks by moving.</p>",
+          "value": "<p>The [[lookup @name]] doesn't provoke opportunity attacks by moving.</p>",
           "director": ""
         },
         "source": {
@@ -291,7 +291,7 @@
       "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
       "system": {
         "description": {
-          "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+          "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
           "director": ""
         },
         "source": {

@@ -249,7 +249,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Once per turn during their move action, each [[lookup @name]] under your control can teleport to a body of water within 6. The [[lookup @name]] can’t teleport into water created by their own seafoam pool.</p>",
+          "value": "<p>Once per turn during their move action, each [[lookup @name]] under your control can teleport to a body of water within 6. The [[lookup @name]] can't teleport into water created by their own seafoam pool.</p>",
           "director": ""
         },
         "source": {
@@ -337,7 +337,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+          "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
           "director": ""
         },
         "source": {

@@ -205,7 +205,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]’s free strikes grant an edge to the next strike made against the target, or a double edge if two or more [[lookup @name]]s strike the same target.</p>",
+          "value": "<p>The [[lookup @name]]'s free strikes grant an edge to the next strike made against the target, or a double edge if two or more [[lookup @name]]s strike the same target.</p>",
           "director": ""
         },
         "source": {
@@ -293,7 +293,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+          "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
           "director": ""
         },
         "source": {

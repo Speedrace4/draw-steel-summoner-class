@@ -341,7 +341,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>At the end of the [[lookup @name]]'s turn, each enemy within 1 of the [[lookup @name]] takes [[/damage 2 sonix]] and can’t shift until the start of the [[lookup @name]]'s next turn.</p>",
+          "value": "<p>At the end of the [[lookup @name]]'s turn, each enemy within 1 of the [[lookup @name]] takes [[/damage 2 sonix]] and can't shift until the start of the [[lookup @name]]'s next turn.</p>",
           "director": ""
         },
         "source": {
@@ -385,7 +385,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s shape can’t change via any external effects.</p>",
+          "value": "<p>The [[lookup @name]]'s shape can't change via any external effects.</p>",
           "director": ""
         },
         "source": {

@@ -23,7 +23,7 @@
       "turns": 1
     },
     "biography": {
-      "value": "<p>Your champion is an Attendant of a celestial. Whenever you call on their assistance, you must formally welcome and introduce them to the occasion. You can’t be certain if this is truly the blessing of a celestial you’ve previously allied yourself with, or if you’ve received someone else’s power—neither circumstance puts you in any less danger.</p><p>The celestial Attendant wants to swarm the map with pixies while limiting their foes’ ability to do anything about it. A single neurotoxic strike is all it takes to move everyone into position.</p>",
+      "value": "<p>Your champion is an Attendant of a celestial. Whenever you call on their assistance, you must formally welcome and introduce them to the occasion. You can't be certain if this is truly the blessing of a celestial you've previously allied yourself with, or if you've received someone else's power—neither circumstance puts you in any less danger.</p><p>The celestial Attendant wants to swarm the map with pixies while limiting their foes' ability to do anything about it. A single neurotoxic strike is all it takes to move everyone into position.</p>",
       "director": "",
       "languages": []
     },
@@ -335,7 +335,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>A creature that takes damage from the [[lookup @name]]'s free strike is I &lt; your I - 1 unable to establish line of effect beyond 3 squares (EoT).</p>",
+          "value": "<p>A creature that takes damage from the [[lookup @name]]'s free strike is [[op I average]] unable to establish line of effect beyond 3 squares (EoT).</p>",
           "director": ""
         },
         "source": {
@@ -379,7 +379,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] starts their turn with temporary Stamina equal to 2 × the number of fey minions within 1 square of them. This temporary Stamina lasts until the start of their next turn.</p>",
+          "value": "<p>The [[lookup @name]] starts their turn with temporary Stamina equal to 2 x the number of fey minions within 1 square of them. This temporary Stamina lasts until the start of their next turn.</p>",
           "director": ""
         },
         "source": {

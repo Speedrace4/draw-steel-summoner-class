@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>As a respite activity, you summon a willing and not-restrained NPC or player ally to join your party, regardless of distance or manifold. The target stays until the start of your next respite or until they are killed, in which they are immediately dismissed to the place from which they were summoned. You can’t have more than one character summoned in this way.</p>",
+      "value": "<p>As a respite activity, you summon a willing and not-restrained NPC or player ally to join your party, regardless of distance or manifold. The target stays until the start of your next respite or until they are killed, in which they are immediately dismissed to the place from which they were summoned. You can't have more than one character summoned in this way.</p>",
       "director": ""
     },
     "source": {

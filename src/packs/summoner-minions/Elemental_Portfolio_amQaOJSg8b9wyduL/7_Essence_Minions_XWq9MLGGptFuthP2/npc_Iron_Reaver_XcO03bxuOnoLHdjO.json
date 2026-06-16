@@ -337,7 +337,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s free strikes inflict M &lt; your M - 2 [[/apply bleeding save]]. Each time the [[lookup @name]] inflicts bleeding on a creature, they can shift 2 and make an additional free strike on a new target.</p>",
+          "value": "<p>The [[lookup @name]]'s free strikes inflict [[op M weak]] [[/apply bleeding save]]. Each time the [[lookup @name]] inflicts bleeding on a creature, they can shift 2 and make an additional free strike on a new target.</p>",
           "director": ""
         },
         "source": {
@@ -381,7 +381,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they create a line equal to 2 × their size centered on their space of iron shards on the ground until the end of the encounter. You or any ally has cover and damage immunity 2 while occupying an affected square.</p>",
+          "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they create a line equal to 2 x their size centered on their space of iron shards on the ground until the end of the encounter. You or any ally has cover and damage immunity 2 while occupying an affected square.</p>",
           "director": ""
         },
         "source": {

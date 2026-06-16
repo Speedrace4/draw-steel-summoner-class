@@ -46,7 +46,7 @@
       "effects": {}
     },
     "effect": {
-      "before": "<p>As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can’t be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.</p>",
+      "before": "<p>As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can't be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.</p>",
       "after": ""
     },
     "spend": {

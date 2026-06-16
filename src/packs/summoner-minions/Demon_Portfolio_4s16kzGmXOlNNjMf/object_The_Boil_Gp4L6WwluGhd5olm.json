@@ -178,7 +178,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Each enemy that starts their turn within 3 squares of [[lookup @name]] is (I &lt; your I - 1) [[/apply taunted turn]] by [[lookup @name]], or (I &lt; your I - 2) [[/apply taunted turn]] by the boil and can’t move further from it.</p>",
+          "value": "<p>Each enemy that starts their turn within 3 squares of [[lookup @name]] is [[op I average]] [[/apply taunted turn]] by [[lookup @name]], or [[op I weak]] [[/apply taunted turn]] by the boil and can't move further from it.</p>",
           "director": ""
         },
         "source": {
@@ -222,7 +222,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>When [[lookup @name]] is destroyed, each enemy within 3 squares of [[lookup @name]] takes acid damage equal to your level and is (A &lt; your A) [[/apply weakened save]].</p>",
+          "value": "<p>When [[lookup @name]] is destroyed, each enemy within 3 squares of [[lookup @name]] takes acid damage equal to your level and is [[op A strong]] [[/apply weakened save]].</p>",
           "director": ""
         },
         "source": {

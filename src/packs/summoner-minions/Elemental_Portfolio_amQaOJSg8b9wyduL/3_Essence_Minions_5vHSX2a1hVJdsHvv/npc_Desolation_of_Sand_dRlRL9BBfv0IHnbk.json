@@ -293,7 +293,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] doesn’t provoke opportunity attacks by moving.</p>",
+          "value": "<p>The [[lookup @name]] doesn't provoke opportunity attacks by moving.</p>",
           "director": ""
         },
         "source": {

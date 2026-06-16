@@ -10,7 +10,7 @@
     },
     "_dsid": "summoner",
     "description": {
-      "value": "<p>You are the armada. The kings of old would trade armies for your abilities. You’ve undertaken the tradition that conjures an endless supply of warriors. You are the summoner, the mage who takes their dreams and makes them manifest.</p><p>You call forth minions to trudge fearlessly into the fray and provide support, holding the enemy at bay while you and your fellow heroes ready the counteroffensive. Your minions serve unflinchingly, unerringly, to their death or to yours.</p><p>You can also take advantage of powerful magic to buff your allies, whittle down your enemies, or enlist the fallen into your ranks. And when push comes to shove, you can call upon your champion to finish the fight.</p>",
+      "value": "<p>You are the armada. The kings of old would trade armies for your abilities. You've undertaken the tradition that conjures an endless supply of warriors. You are the summoner, the mage who takes their dreams and makes them manifest.</p><p>You call forth minions to trudge fearlessly into the fray and provide support, holding the enemy at bay while you and your fellow heroes ready the counteroffensive. Your minions serve unflinchingly, unerringly, to their death or to yours.</p><p>You can also take advantage of powerful magic to buff your allies, whittle down your enemies, or enlist the fallen into your ranks. And when push comes to shove, you can call upon your champion to finish the fight.</p>",
       "director": ""
     },
     "advancements": {
@@ -95,7 +95,7 @@
             "uuid": "Compendium.world.classes.Item.oehOjrjvSinAo8AI"
           }
         ],
-        "description": "<p>The creatures you control are called minions. You can summon and maintain up to a maximum of 8 minions. Your minions are considered allies at your level.</p><p>You can manage up to two squads of minions. Newly summoned minions can either be organized into a new squad or be distributed into other squads under your control. A squad can’t contain more than eight minions, and all minions in the squad must have the same name. The maximum distance that you can summon minions and use specific conjuring abilities is called your Summoner’s Range. Your Summoner’s Range is equal to 5 + your Reason score. You must have line of effect to summon and give commands to minions within your Summoner’s Range. Commanding a minion to take a main action or a maneuver while hidden reveals you.</p><p>You also have special minions at your disposal called signature minions, low-cost creatures that you’ve become accustomed to summoning often. See your Portfolio for more details about the types of minions you can summon.</p>",
+        "description": "<p>The creatures you control are called minions. You can summon and maintain up to a maximum of 8 minions. Your minions are considered allies at your level.</p><p>You can manage up to two squads of minions. Newly summoned minions can either be organized into a new squad or be distributed into other squads under your control. A squad can't contain more than eight minions, and all minions in the squad must have the same name. The maximum distance that you can summon minions and use specific conjuring abilities is called your Summoner's Range. Your Summoner's Range is equal to 5 + your Reason score. You must have line of effect to summon and give commands to minions within your Summoner's Range. Commanding a minion to take a main action or a maneuver while hidden reveals you.</p><p>You also have special minions at your disposal called signature minions, low-cost creatures that you've become accustomed to summoning often. See your Portfolio for more details about the types of minions you can summon.</p>",
         "chooseN": null,
         "sort": 6000,
         "repick": {
@@ -225,7 +225,7 @@
             "uuid": "Compendium.world.classes.Item.bglTOodE7hvZCIn0"
           }
         ],
-        "description": "<p>You’ve learned the art of summoning from a member of a loose network of summoners called a circle. Each circle specializes in a distinct portfolio of creatures you can call into existence. Choose a summoner circle from the following options, each of which grants you a communication feature (<em>Quick Build: Circle of Graves.</em>)</p>",
+        "description": "<p>You've learned the art of summoning from a member of a loose network of summoners called a circle. Each circle specializes in a distinct portfolio of creatures you can call into existence. Choose a summoner circle from the following options, each of which grants you a communication feature (<em>Quick Build: Circle of Graves.</em>)</p>",
         "sort": 14000,
         "repick": {
           "respite": ""
@@ -244,7 +244,7 @@
           "level": 1
         },
         "_id": "MNtcLYkYfQjig3pu",
-        "description": "<p>You’ve practiced a specific formation for your minions. Choose one of the following formations: horde, platoon, elite, or leader. You can change your formation along with your quick command (see Quick Command) by performing intense study as a respite activity. (<em>Quick Build: Platoon Formation.</em>)</p>",
+        "description": "<p>You've practiced a specific formation for your minions. Choose one of the following formations: horde, platoon, elite, or leader. You can change your formation along with your quick command (see Quick Command) by performing intense study as a respite activity. (<em>Quick Build: Platoon Formation.</em>)</p>",
         "repick": {
           "respite": "activity"
         },
@@ -310,7 +310,7 @@
           "level": 2
         },
         "_id": "L8GbryniOKJAidlD",
-        "description": "<p>Your circle allows you to call forth a piece of your portfolio’s dominion like any minion.</p><p>Once per encounter, you can use a maneuver to summon a fixture from your minions’ native manifold or origin into an unoccupied space on the ground within your Summoner’s Range. You can spend 1 essence to relocate the fixture as a free maneuver on your turn. The fixture stays until the end of the encounter, until its Stamina is reduced to 0, or until you become dying.</p><p>Your fixture gains additional features at 5th and 9th level.</p>",
+        "description": "<p>Your circle allows you to call forth a piece of your portfolio's dominion like any minion.</p><p>Once per encounter, you can use a maneuver to summon a fixture from your minions' native manifold or origin into an unoccupied space on the ground within your Summoner's Range. You can spend 1 essence to relocate the fixture as a free maneuver on your turn. The fixture stays until the end of the encounter, until its Stamina is reduced to 0, or until you become dying.</p><p>Your fixture gains additional features at 5th and 9th level.</p>",
         "repick": {
           "respite": ""
         },
@@ -392,7 +392,7 @@
           "level": 3
         },
         "_id": "mYb7M9XMexSVXozN",
-        "description": "<p>You conjure a kit for yourself. This kit includes an implement, such as a rod or a baton, which grants you the following benefits:</p><ul><li><p>The damage of your Summoner Strike ability increases to twice your Reason score.</p></li><li><p>The potency of your Summoner Strike ability increases to [[potency Presence average]].</p></li><li><p>The distance of your Summoner Strike ability is now equal to your Summoner’s Range.</p></li></ul><p>Your kit also comes with wards like magic armor and transient minion forces. Choose one of the following wards.</p>",
+        "description": "<p>You conjure a kit for yourself. This kit includes an implement, such as a rod or a baton, which grants you the following benefits:</p><ul><li><p>The damage of your Summoner Strike ability increases to twice your Reason score.</p></li><li><p>The potency of your Summoner Strike ability increases to [[potency Presence average]].</p></li><li><p>The distance of your Summoner Strike ability is now equal to your Summoner's Range.</p></li></ul><p>Your kit also comes with wards like magic armor and transient minion forces. Choose one of the following wards.</p>",
         "repick": {
           "respite": "activity"
         },

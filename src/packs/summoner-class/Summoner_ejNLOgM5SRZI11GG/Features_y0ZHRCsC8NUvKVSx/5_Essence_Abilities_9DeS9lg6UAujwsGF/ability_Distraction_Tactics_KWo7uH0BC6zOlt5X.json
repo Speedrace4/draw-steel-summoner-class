@@ -47,7 +47,7 @@
       "effects": {}
     },
     "effect": {
-      "before": "<p>Until the end of the encounter or until you are dying, each minion under your control during the encounter is the target of the following effect:</p><p>The target’s strikes can inflict (I &lt; your I) [[/apply taunted turn]] to enemies. The potency increases by 1 for each minion that joined the strike.</p>",
+      "before": "<p>Until the end of the encounter or until you are dying, each minion under your control during the encounter is the target of the following effect:</p><p>The target's strikes can inflict [[op I strong]] [[/apply taunted turn]] to enemies. The potency increases by 1 for each minion that joined the strike.</p>",
       "after": ""
     },
     "spend": {

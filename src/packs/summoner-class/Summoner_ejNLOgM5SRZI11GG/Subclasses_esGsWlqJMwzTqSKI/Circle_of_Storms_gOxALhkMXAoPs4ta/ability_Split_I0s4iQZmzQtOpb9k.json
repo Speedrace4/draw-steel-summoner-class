@@ -45,7 +45,7 @@
       "effects": {}
     },
     "effect": {
-      "before": "<p>Once during your turn, you can use this free maneuver to deal damage to one of your elemental minions equal to half their maximum Stamina in order to create one additional copy of that minion in an adjacent unoccupied space and add them to their squad, even if you’re at your minion maximum. You can’t use this feature if it would kill one or more of the minions in the squad.</p>",
+      "before": "<p>Once during your turn, you can use this free maneuver to deal damage to one of your elemental minions equal to half their maximum Stamina in order to create one additional copy of that minion in an adjacent unoccupied space and add them to their squad, even if you're at your minion maximum. You can't use this feature if it would kill one or more of the minions in the squad.</p>",
       "after": ""
     },
     "spend": {

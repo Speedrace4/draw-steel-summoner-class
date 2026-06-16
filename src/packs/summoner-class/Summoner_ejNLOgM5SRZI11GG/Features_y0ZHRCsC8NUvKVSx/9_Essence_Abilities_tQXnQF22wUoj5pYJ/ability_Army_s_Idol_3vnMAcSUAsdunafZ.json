@@ -18,7 +18,7 @@
       ],
       "level": 6
     },
-    "story": "Your champion’s appearance has an enchanting impact on you and your allies.",
+    "story": "Your champion's appearance has an enchanting impact on you and your allies.",
     "keywords": [
       "area",
       "magic"
@@ -48,7 +48,7 @@
       "effects": {}
     },
     "effect": {
-      "before": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p><p>Until the end of the encounter or you become dying, each target has a +2 bonus to saving throws.</p><p>Each target can immediately make each of their saving throws and stand up from prone.</p>",
+      "before": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p><p>Until the end of the encounter or you become dying, each target has a +2 bonus to saving throws.</p><p>Each target can immediately make each of their saving throws and stand up from prone.</p>",
       "after": ""
     },
     "spend": {

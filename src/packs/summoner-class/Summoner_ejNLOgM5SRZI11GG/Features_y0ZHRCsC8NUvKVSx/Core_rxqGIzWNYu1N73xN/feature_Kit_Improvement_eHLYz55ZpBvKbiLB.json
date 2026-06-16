@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>You can choose one additional ward from your Summoner’s Kit.</p><p>Additionally, whenever you reduce an enemy to 0 Stamina with your Summoner Strike ability, you can use Call Forth as a free maneuver. Minions summoned this way are unable to act during this turn.</p>",
+      "value": "<p>You can choose one additional ward from your Summoner's Kit.</p><p>Additionally, whenever you reduce an enemy to 0 Stamina with your Summoner Strike ability, you can use Call Forth as a free maneuver. Minions summoned this way are unable to act during this turn.</p>",
       "director": ""
     },
     "source": {
@@ -25,7 +25,7 @@
           "level": 6
         },
         "_id": "rpjUaIAi9gYLKFkE",
-        "description": "<p>You can choose one additional ward from your Summoner’s Kit.</p>",
+        "description": "<p>You can choose one additional ward from your Summoner's Kit.</p>",
         "repick": {
           "respite": ""
         },

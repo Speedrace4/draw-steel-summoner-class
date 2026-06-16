@@ -23,7 +23,7 @@
       "turns": 1
     },
     "biography": {
-      "value": "<p>Your champion is a Portent of a dragon yet to manifest. Through defending the innocent, you have made yourself and your elementals a close neighbor to the malice that threatens them. The dragon desires you bring their creation about and lends you strength to see your justice through.</p><p>As a harbinger of ruin, the dragon’s Portent has incredibly potent impact and control of the environment. Their final shape has yet to be determined; use this to your advantage and call upon the affinity that will end conflict the quickest.</p>",
+      "value": "<p>Your champion is a Portent of a dragon yet to manifest. Through defending the innocent, you have made yourself and your elementals a close neighbor to the malice that threatens them. The dragon desires you bring their creation about and lends you strength to see your justice through.</p><p>As a harbinger of ruin, the dragon's Portent has incredibly potent impact and control of the environment. Their final shape has yet to be determined; use this to your advantage and call upon the affinity that will end conflict the quickest.</p>",
       "director": "",
       "languages": []
     },
@@ -247,7 +247,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] selects an affinity for one of the following damage types when they are summoned: acid, cold, corruption, fire, lightning, or poison. This type determines the Portent’s affinity immunity, free strikes, and the damage type of their abilities.</p>",
+          "value": "<p>The [[lookup @name]] selects an affinity for one of the following damage types when they are summoned: acid, cold, corruption, fire, lightning, or poison. This type determines the Portent's affinity immunity, free strikes, and the damage type of their abilities.</p>",
           "director": ""
         },
         "source": {
@@ -291,7 +291,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s free strikes inflict M &lt; your M [[/apply slowed save]]. While slowed this way, the target takes [[/damage 1d6]]{1d6 affinity damage} at the start of each of their turns.</p>",
+          "value": "<p>The [[lookup @name]]'s free strikes inflict [[op M strong]] [[/apply slowed save]]. While slowed this way, the target takes [[/damage 1d6]]{1d6 affinity damage} at the start of each of their turns.</p>",
           "director": ""
         },
         "source": {
@@ -423,7 +423,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>Once per turn, the [[lookup @name]] can take [[/damage 10]] to allow you or an ally within your Summoner’s Range to gain 1 heroic resource. This damage can’t be reduced in any way.</p>",
+          "value": "<p>Once per turn, the [[lookup @name]] can take [[/damage 10]] to allow you or an ally within your Summoner's Range to gain 1 heroic resource. This damage can't be reduced in any way.</p>",
           "director": ""
         },
         "source": {

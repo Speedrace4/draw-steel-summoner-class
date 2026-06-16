@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>Your number of Recoveries further increases by 2.</p><p>Additionally, the area affected by your Pixie Dust feature and any of your fey minions’ traits that affect adjacent creatures and/or the area within 1 or more squares of them increase that distance by 1 square.</p>",
+      "value": "<p>Your number of Recoveries further increases by 2.</p><p>Additionally, the area affected by your Pixie Dust feature and any of your fey minions' traits that affect adjacent creatures and/or the area within 1 or more squares of them increase that distance by 1 square.</p>",
       "director": ""
     },
     "source": {

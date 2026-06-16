@@ -249,7 +249,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s ranged free strikes inflict A &lt; your A - 1 [[/apply restrained turn]]. Each creature adjacent to the target is A &lt; your A - 2 [[/apply slowed turn]].</p>",
+          "value": "<p>The [[lookup @name]]'s ranged free strikes inflict [[op A average]] [[/apply restrained turn]]. Each creature adjacent to the target is [[op A weak]] [[/apply slowed turn]].</p>",
           "director": ""
         },
         "source": {
@@ -293,7 +293,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they launch ribbons of webbing into an area equal to their size + 1 within 5 before being destroyed. The affected area is considered difficult terrain for enemies until the end of the encounter. An enemy that ends their turn in the webbing is M &lt; your M [[/apply slowed turn]].</p>",
+          "value": "<p>When the [[lookup @name]] is reduced to 0 Stamina, they launch ribbons of webbing into an area equal to their size + 1 within 5 before being destroyed. The affected area is considered difficult terrain for enemies until the end of the encounter. An enemy that ends their turn in the webbing is [[op M strong]] [[/apply slowed turn]].</p>",
           "director": ""
         },
         "source": {

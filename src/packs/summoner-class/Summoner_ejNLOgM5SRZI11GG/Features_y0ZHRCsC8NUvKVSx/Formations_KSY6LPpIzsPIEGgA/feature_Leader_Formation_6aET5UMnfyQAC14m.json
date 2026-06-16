@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>You aren’t affected by excess damage after all minions in a squad are dead. If your minion is within your Summoner’s Range when they take damage, you can choose to take damage in place of the minion.</p><p>Additionally, you can use light armor treasures and light weapon treasures while you don’t have a kit.</p>",
+      "value": "<p>You aren't affected by excess damage after all minions in a squad are dead. If your minion is within your Summoner's Range when they take damage, you can choose to take damage in place of the minion.</p><p>Additionally, you can use light armor treasures and light weapon treasures while you don't have a kit.</p>",
       "director": ""
     },
     "source": {

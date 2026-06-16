@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>You aren’t affected by excess damage after all minions in a squad are dead.</p><p>Additionally, you and each of your undead minions ignore damage rolled as a d3 or a d6 and damage from environmental effects while you are not winded.</p>",
+      "value": "<p>You aren't affected by excess damage after all minions in a squad are dead.</p><p>Additionally, you and each of your undead minions ignore damage rolled as a d3 or a d6 and damage from environmental effects while you are not winded.</p>",
       "director": ""
     },
     "source": {

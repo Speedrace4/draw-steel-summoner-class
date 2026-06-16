@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>Your maximum number of minions increases by 4.</p><p>You can increase each of your minions’ Stamina as shown on the 4th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 3).</p><p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>",
+      "value": "<p>Your maximum number of minions increases by 4.</p><p>You can increase each of your minions' Stamina as shown on the 4th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 3).</p><p>These benefits are not reflected in the stat blocks of new minions you acquire.</p>",
       "director": ""
     },
     "source": {

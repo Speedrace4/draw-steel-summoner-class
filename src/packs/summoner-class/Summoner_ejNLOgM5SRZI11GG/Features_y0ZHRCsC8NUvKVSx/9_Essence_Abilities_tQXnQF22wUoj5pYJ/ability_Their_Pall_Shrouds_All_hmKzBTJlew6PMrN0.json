@@ -48,7 +48,7 @@
       "effects": {}
     },
     "effect": {
-      "before": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p><p>Each target is [[potency R average]] [[/apply weakened save]]. Until the end of the encounter, whenever a target gets a tier 1 result on a strike, they deal half damage. If a target was striking a creature adjacent to one of their allies, they target their ally instead.</p>",
+      "before": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p><p>Each target is [[potency R average]] [[/apply weakened save]]. Until the end of the encounter, whenever a target gets a tier 1 result on a strike, they deal half damage. If a target was striking a creature adjacent to one of their allies, they target their ally instead.</p>",
       "after": ""
     },
     "spend": {

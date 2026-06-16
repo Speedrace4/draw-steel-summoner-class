@@ -253,7 +253,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s melee free strikes have a distance of 2 and inflict M &lt; your M - 1 [[/apply restrained turn]]. The [[lookup @name]] can move the target while they are restrained this way. At the start of a restrained creature’s turn, they take acid damage equal to your Reason.</p>",
+          "value": "<p>The [[lookup @name]]'s melee free strikes have a distance of 2 and inflict [[op M average]] [[/apply restrained turn]]. The [[lookup @name]] can move the target while they are restrained this way. At the start of a restrained creature's turn, they take acid damage equal to your Reason.</p>",
           "director": ""
         },
         "source": {

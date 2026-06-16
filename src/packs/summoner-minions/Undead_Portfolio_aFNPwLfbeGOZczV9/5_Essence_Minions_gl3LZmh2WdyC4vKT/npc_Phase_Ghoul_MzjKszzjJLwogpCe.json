@@ -253,7 +253,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] teleports 5 squares before making a melee free strike. The target is M &lt; your M - 1 [[/apply prone]]{knocked prone}. If the target is in the air, the potency increases by 1.</p>",
+          "value": "<p>The [[lookup @name]] teleports 5 squares before making a melee free strike. The target is [[op M average]] [[/apply prone]]{knocked prone}. If the target is in the air, the potency increases by 1.</p>",
           "director": ""
         },
         "source": {

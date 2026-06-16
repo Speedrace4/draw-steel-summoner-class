@@ -204,7 +204,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s ranged free strikes have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this [[lookup @name]] can’t shift until the start of the [[lookup @name]]’s next turn.</p>",
+          "value": "<p>The [[lookup @name]]'s ranged free strikes have a distance of 10 and deal 2 poison damage to an enemy adjacent to the target. Creatures that take poison damage from this [[lookup @name]] can't shift until the start of the [[lookup @name]]'s next turn.</p>",
           "director": ""
         },
         "source": {
@@ -291,7 +291,7 @@
       "img": "https://assets.forge-vtt.com/bazaar/core/icons/creatures/unholy/demon-hairy-winged-pink.webp",
       "system": {
         "description": {
-          "value": "<p>Each creature adjacent to the [[lookup @name]] can’t be hidden from them.</p>",
+          "value": "<p>Each creature adjacent to the [[lookup @name]] can't be hidden from them.</p>",
           "director": ""
         },
         "source": {

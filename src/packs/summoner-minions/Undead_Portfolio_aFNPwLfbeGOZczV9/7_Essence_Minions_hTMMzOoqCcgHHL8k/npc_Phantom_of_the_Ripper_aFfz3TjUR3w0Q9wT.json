@@ -253,7 +253,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] can move through other creatures and objects at normal speed. The first time in a round that the [[lookup @name]] passes through a creature, that creature takes [[/damage 3 corruption]] and has a bane on their next strike. The [[lookup @name]] doesn’t take damage from being force moved into objects.</p>",
+          "value": "<p>The [[lookup @name]] can move through other creatures and objects at normal speed. The first time in a round that the [[lookup @name]] passes through a creature, that creature takes [[/damage 3 corruption]] and has a bane on their next strike. The [[lookup @name]] doesn't take damage from being force moved into objects.</p>",
           "director": ""
         },
         "source": {

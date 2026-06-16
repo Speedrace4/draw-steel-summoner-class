@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>You gain an epic resource called eidos. When you take a respite, you gain eidos equal to the XP you gain. You can spend eidos as if it were essence on minions and abilities you have. When you do, you summon up to two bonus signature minions into unoccupied spaces within your Summoner’s Range.</p><p>You and your champion also have access to abilities that can be used by spending eidos (see Their Life for Mine and Portfolio Champion).</p><p>Eidos remains until you spend it.</p>",
+      "value": "<p>You gain an epic resource called eidos. When you take a respite, you gain eidos equal to the XP you gain. You can spend eidos as if it were essence on minions and abilities you have. When you do, you summon up to two bonus signature minions into unoccupied spaces within your Summoner's Range.</p><p>You and your champion also have access to abilities that can be used by spending eidos (see Their Life for Mine and Portfolio Champion).</p><p>Eidos remains until you spend it.</p>",
       "director": ""
     },
     "source": {

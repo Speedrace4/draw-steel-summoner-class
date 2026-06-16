@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>Increase your number of Recoveries by 2.</p><p>Whenever one of your fey minions dies within your Summoner’s Range, you can spend a Recovery to give temporary Stamina equal to twice your Reason score to each non-minion ally adjacent to the minion when they died.</p>",
+      "value": "<p>Increase your number of Recoveries by 2.</p><p>Whenever one of your fey minions dies within your Summoner's Range, you can spend a Recovery to give temporary Stamina equal to twice your Reason score to each non-minion ally adjacent to the minion when they died.</p>",
       "director": ""
     },
     "source": {

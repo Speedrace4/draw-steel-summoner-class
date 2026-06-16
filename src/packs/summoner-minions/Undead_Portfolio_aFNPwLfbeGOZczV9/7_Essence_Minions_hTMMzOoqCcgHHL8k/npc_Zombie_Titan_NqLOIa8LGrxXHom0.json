@@ -23,7 +23,7 @@
       "turns": 1
     },
     "biography": {
-      "value": "<p>Zombie titan is a catchall for undead giants, patchwork ogres and mournlings, or amalgamations of a graveyard’s entire population. The titan lumbers and slumps across battlefields, wanting desperately to collapse and crash into the earth like a sea of flesh and bone.</p>",
+      "value": "<p>Zombie titan is a catchall for undead giants, patchwork ogres and mournlings, or amalgamations of a graveyard's entire population. The titan lumbers and slumps across battlefields, wanting desperately to collapse and crash into the earth like a sea of flesh and bone.</p>",
       "director": "",
       "languages": []
     },
@@ -296,7 +296,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s melee free strikes M &lt; your M [[/apply prone]]{knock the target prone}.</p>",
+          "value": "<p>The [[lookup @name]]'s melee free strikes [[op M strong]] [[/apply prone]]{knock the target prone}.</p>",
           "director": ""
         },
         "source": {
@@ -340,7 +340,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] can move through enemies at normal speed. If the [[lookup @name]] ends their turn in a prone size 2 or smaller creature’s space, the creature can’t stand.</p>",
+          "value": "<p>The [[lookup @name]] can move through enemies at normal speed. If the [[lookup @name]] ends their turn in a prone size 2 or smaller creature's space, the creature can't stand.</p>",
           "director": ""
         },
         "source": {

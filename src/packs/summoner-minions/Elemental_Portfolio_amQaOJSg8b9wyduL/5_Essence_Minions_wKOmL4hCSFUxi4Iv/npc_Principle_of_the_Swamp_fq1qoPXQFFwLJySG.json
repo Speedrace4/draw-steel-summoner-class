@@ -297,7 +297,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]]'s melee free strikes have a distance of your Reason and inflict M &lt; your M [[//apply grabbed]]. The [[lookup @name]] can have an unlimited number of creatures or objects grabbed. A creature grabbed by this strike still has their normal speed, but can’t move farther away from the principle.</p>",
+          "value": "<p>The [[lookup @name]]'s melee free strikes have a distance of your Reason and inflict [[op M strong]] [[//apply grabbed]]. The [[lookup @name]] can have an unlimited number of creatures or objects grabbed. A creature grabbed by this strike still has their normal speed, but can't move farther away from the principle.</p>",
           "director": ""
         },
         "source": {

@@ -45,7 +45,7 @@
       "effects": {}
     },
     "effect": {
-      "before": "<p>Once per encounter, you can use this maneuver to summon a fixture from your minions’ native manifold or origin into an unoccupied space on the ground within your Summoner’s Range. The fixture stays until the end of the encounter, until its Stamina is reduced to 0, or until you become dying.</p>",
+      "before": "<p>Once per encounter, you can use this maneuver to summon a fixture from your minions' native manifold or origin into an unoccupied space on the ground within your Summoner's Range. The fixture stays until the end of the encounter, until its Stamina is reduced to 0, or until you become dying.</p>",
       "after": ""
     },
     "spend": {

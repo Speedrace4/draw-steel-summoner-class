@@ -140,7 +140,7 @@
     },
     "effect": {
       "before": "",
-      "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p><p><strong>Special</strong>: You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion).</p>"
+      "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner's Range.</p><p><strong>Special</strong>: You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion).</p>"
     },
     "spend": {
       "text": "",

@@ -47,7 +47,7 @@
       "effects": {}
     },
     "effect": {
-      "before": "<p>Until the end of the encounter or you are dying, each square on the ground is considered teeming with minions. An enemy that ends their turn in an affected square takes [[/damage 5]]. This damage can’t be reduced.</p><p>Additionally, you can use Minion Bridge treating each affected square as an eligible minion (up to a maximum of 10 additional squares).</p>",
+      "before": "<p>Until the end of the encounter or you are dying, each square on the ground is considered teeming with minions. An enemy that ends their turn in an affected square takes [[/damage 5]]. This damage can't be reduced.</p><p>Additionally, you can use Minion Bridge treating each affected square as an eligible minion (up to a maximum of 10 additional squares).</p>",
       "after": ""
     },
     "spend": {

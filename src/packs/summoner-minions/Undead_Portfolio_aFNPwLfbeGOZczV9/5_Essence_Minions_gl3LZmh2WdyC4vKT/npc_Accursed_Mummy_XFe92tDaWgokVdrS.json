@@ -424,7 +424,7 @@
         },
         "effect": {
           "before": "<p>The range of this ability is equal to your reason.</p>",
-          "after": "<p>A target pulled adjacent to the [[lookup @name]] is M &lt; your M [[/apply weakened turn]].</p>"
+          "after": "<p>A target pulled adjacent to the [[lookup @name]] is [[op M strong]] [[/apply weakened turn]].</p>"
         },
         "spend": {
           "text": "",

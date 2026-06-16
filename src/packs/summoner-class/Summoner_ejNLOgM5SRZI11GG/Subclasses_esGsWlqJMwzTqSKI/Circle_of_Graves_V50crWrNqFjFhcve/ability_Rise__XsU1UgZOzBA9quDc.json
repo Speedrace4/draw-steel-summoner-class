@@ -45,7 +45,7 @@
       "effects": {}
     },
     "effect": {
-      "before": "<p>You can summon a signature undead minion in the triggering creature's space at no cost, even if you’re at your minion maximum, but only if they can be organized into one of your squads. The new minion can’t act until the start of your next turn.</p><p>This ability becomes a free triggered action if the target was a minion (either yours or an enemy).</p>",
+      "before": "<p>You can summon a signature undead minion in the triggering creature's space at no cost, even if you're at your minion maximum, but only if they can be organized into one of your squads. The new minion can't act until the start of your next turn.</p><p>This ability becomes a free triggered action if the target was a minion (either yours or an enemy).</p>",
       "after": ""
     },
     "spend": {

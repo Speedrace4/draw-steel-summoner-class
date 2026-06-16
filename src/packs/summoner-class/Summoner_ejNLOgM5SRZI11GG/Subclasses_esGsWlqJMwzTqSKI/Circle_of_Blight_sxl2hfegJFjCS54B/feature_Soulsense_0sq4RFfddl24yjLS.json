@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>While you have line of effect to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 × your level.</p><p>When you finish a respite, you can always perceive the soul trails of each creature that took the respite with you until your next respite.</p>",
+      "value": "<p>While you have line of effect to a creature with a soul, you can perceive a trail of where the creature has been in the last number of minutes equal to 5 x your level.</p><p>When you finish a respite, you can always perceive the soul trails of each creature that took the respite with you until your next respite.</p>",
       "director": ""
     },
     "source": {

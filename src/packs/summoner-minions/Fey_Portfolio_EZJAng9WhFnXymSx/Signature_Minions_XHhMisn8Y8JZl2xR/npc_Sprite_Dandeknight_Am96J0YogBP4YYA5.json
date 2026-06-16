@@ -23,7 +23,7 @@
       "turns": 1
     },
     "biography": {
-      "value": "<p>Dandeknights are sprite warriors whose dragonfly wingbeats emit a tonal drone. They’re usually clad in tassels that shift color as they swing their weapons.</p>",
+      "value": "<p>Dandeknights are sprite warriors whose dragonfly wingbeats emit a tonal drone. They're usually clad in tassels that shift color as they swing their weapons.</p>",
       "director": "",
       "languages": []
     },
@@ -293,7 +293,7 @@
       "img": "icons/svg/item-bag.svg",
       "system": {
         "description": {
-          "value": "<p>The [[lookup @name]] has cover while occupying a larger creature’s space.</p>",
+          "value": "<p>The [[lookup @name]] has cover while occupying a larger creature's space.</p>",
           "director": ""
         },
         "source": {

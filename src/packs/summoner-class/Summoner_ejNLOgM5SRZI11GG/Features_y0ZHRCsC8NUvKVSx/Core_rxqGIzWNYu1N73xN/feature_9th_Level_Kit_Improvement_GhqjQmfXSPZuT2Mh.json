@@ -6,7 +6,7 @@
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": {
-      "value": "<p>You’ve conjured your kit into its ultimate form. You have the following benefits:</p><ul><li><p>The potency of your Summoner Strike ability increases to [[potency R strong]].</p></li><li><p>You can choose one additional ward from your Summoner’s Kit.</p></li><li><p>You have a double edge on tests made to dissuade or scare enemy minions or lackeys.</p></li><li><p>Your clothing and equipment become adorned with distinct and elaborate regalia to make you stand out from your army, like massive rib cage pauldrons, a tooth crested helmet, or a billowing mantle of fire.</p></li></ul>",
+      "value": "<p>You've conjured your kit into its ultimate form. You have the following benefits:</p><ul><li><p>The potency of your Summoner Strike ability increases to [[potency R strong]].</p></li><li><p>You can choose one additional ward from your Summoner's Kit.</p></li><li><p>You have a double edge on tests made to dissuade or scare enemy minions or lackeys.</p></li><li><p>Your clothing and equipment become adorned with distinct and elaborate regalia to make you stand out from your army, like massive rib cage pauldrons, a tooth crested helmet, or a billowing mantle of fire.</p></li></ul>",
       "director": ""
     },
     "source": {
@@ -25,7 +25,7 @@
           "level": 9
         },
         "_id": "ckyGClaA0VcieGVe",
-        "description": "<p>You can choose one additional ward from your Summoner’s Kit.</p>",
+        "description": "<p>You can choose one additional ward from your Summoner's Kit.</p>",
         "repick": {
           "respite": ""
         },
