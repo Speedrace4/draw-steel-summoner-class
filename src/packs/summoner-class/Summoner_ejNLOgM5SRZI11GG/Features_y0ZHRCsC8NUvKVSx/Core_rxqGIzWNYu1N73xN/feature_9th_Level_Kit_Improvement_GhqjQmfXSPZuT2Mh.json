@@ -1,0 +1,78 @@
+{
+  "folder": "rxqGIzWNYu1N73xN",
+  "name": "9th-Level Kit Improvement",
+  "type": "feature",
+  "_id": "GhqjQmfXSPZuT2Mh",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>You’ve conjured your kit into its ultimate form. You have the following benefits:</p><ul><li><p>The potency of your Summoner Strike ability increases to [[potency R strong]].</p></li><li><p>You can choose one additional ward from your Summoner’s Kit.</p></li><li><p>You have a double edge on tests made to dissuade or scare enemy minions or lackeys.</p></li><li><p>Your clothing and equipment become adorned with distinct and elaborate regalia to make you stand out from your army, like massive rib cage pauldrons, a tooth crested helmet, or a billowing mantle of fire.</p></li></ul>",
+      "director": ""
+    },
+    "source": {
+      "book": "Summoner",
+      "page": "41",
+      "license": "Draw Steel Creator License"
+    },
+    "_dsid": "9th-level-kit-improvement",
+    "advancements": {
+      "ckyGClaA0VcieGVe": {
+        "sort": 100000,
+        "name": "Kit Improvement",
+        "img": null,
+        "type": "itemGrant",
+        "requirements": {
+          "level": 9
+        },
+        "_id": "ckyGClaA0VcieGVe",
+        "description": "<p>You can choose one additional ward from your Summoner’s Kit.</p>",
+        "repick": {
+          "respite": ""
+        },
+        "pool": [
+          {
+            "uuid": "Compendium.world.complications-perks-kits.Item.SrNnnIB1IhdIqQv9"
+          },
+          {
+            "uuid": "Compendium.world.complications-perks-kits.Item.9UZdFGEYlhAt8eBX"
+          },
+          {
+            "uuid": "Compendium.world.complications-perks-kits.Item.H0KjiRC8GNA5WBwe"
+          },
+          {
+            "uuid": "Compendium.world.complications-perks-kits.Item.VKW9qDHCunLecjtl"
+          }
+        ],
+        "chooseN": 1,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      }
+    },
+    "prerequisites": {
+      "value": "",
+      "dsid": [],
+      "level": null
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bULgfeSVOL2yapd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781419017662,
+    "modifiedTime": 1781419017662,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GhqjQmfXSPZuT2Mh"
+}

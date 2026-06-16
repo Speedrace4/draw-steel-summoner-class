@@ -1,0 +1,72 @@
+{
+  "folder": "sxl2hfegJFjCS54B",
+  "name": "Soul Flense",
+  "type": "feature",
+  "_id": "bRAx17XOj8sX9ywb",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>As a maneuver, you can command one or more of your demon minions to each deal damage equal to their free strike value to an adjacent ally. This damage can’t be reduced. The ally then ends a condition affecting them and confers it to the demon that attacked them.</p><p>Additionally, whenever one of your demon minions Death Snaps, their target is P&lt;W affected by a condition the minion was suffering from. The potency increases by 1 on each subsequent Death Snap the target takes damage from in the same turn (maximum +2).</p>",
+      "director": ""
+    },
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "soul-flense",
+    "advancements": {
+      "qjOZJmzeV7fBMx8O": {
+        "sort": 100000,
+        "name": "Soul Flense",
+        "img": null,
+        "type": "itemGrant",
+        "requirements": {
+          "level": 5
+        },
+        "_id": "qjOZJmzeV7fBMx8O",
+        "description": "<p>You get access to the following ability.</p>",
+        "repick": {
+          "respite": ""
+        },
+        "pool": [
+          {
+            "uuid": "Compendium.world.classes.Item.pUtAe4EHnczJjjl2"
+          }
+        ],
+        "chooseN": null,
+        "additional": {
+          "type": "",
+          "perkType": []
+        }
+      }
+    },
+    "prerequisites": {
+      "value": "",
+      "dsid": [
+        "summoner",
+        "circle-of-blight"
+      ],
+      "level": null
+    }
+  },
+  "effects": [],
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "bULgfeSVOL2yapd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781419017699,
+    "modifiedTime": 1781419017699,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!bRAx17XOj8sX9ywb"
+}

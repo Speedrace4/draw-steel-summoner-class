@@ -1,0 +1,106 @@
+{
+  "folder": "X76PVhFYSIWXtMJh",
+  "name": "Fairy Whispers",
+  "type": "ability",
+  "_id": "GSeQ3INhYjK0rG8H",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "source": {
+      "book": "",
+      "page": "",
+      "license": ""
+    },
+    "_dsid": "fairy-whispers",
+    "prerequisites": {
+      "value": "",
+      "dsid": [],
+      "level": null
+    },
+    "story": "",
+    "keywords": [],
+    "type": "maneuver",
+    "category": "",
+    "resource": null,
+    "trigger": "",
+    "distance": {
+      "type": "special",
+      "primary": "1",
+      "secondary": "1",
+      "tertiary": "1"
+    },
+    "damageDisplay": "melee",
+    "target": {
+      "type": "special",
+      "custom": "",
+      "value": null
+    },
+    "power": {
+      "roll": {
+        "reactive": false,
+        "formula": "@chr",
+        "characteristics": [
+          "reason"
+        ]
+      },
+      "effects": {
+        "W62a8XQCGQmFOYtp": {
+          "sort": 100000,
+          "name": "",
+          "img": null,
+          "type": "other",
+          "_id": "W62a8XQCGQmFOYtp",
+          "other": {
+            "tier1": {
+              "display": "You learn an undoubtedly false common rumor.",
+              "potency": {
+                "value": "@potency.weak",
+                "characteristic": "none"
+              }
+            },
+            "tier2": {
+              "display": "You learn a common rumor that is most likely true.",
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "display": "You learn an obscure rumor that could either be true or false.",
+              "potency": {
+                "value": "@potency.strong",
+                "characteristic": ""
+              }
+            }
+          }
+        }
+      }
+    },
+    "effect": {
+      "before": "<p>Whenever you send a minion to perform a task for you outside of combat, they can bring back a rumor from the destination to which you sent them. When the minion returns, make a Reason test:</p>",
+      "after": "<p>You gain a bane on the test for each subsequent rumor you collect either on the same day or in the same location.</p>"
+    },
+    "spend": {
+      "text": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bULgfeSVOL2yapd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781419017661,
+    "modifiedTime": 1781419017661,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!GSeQ3INhYjK0rG8H"
+}

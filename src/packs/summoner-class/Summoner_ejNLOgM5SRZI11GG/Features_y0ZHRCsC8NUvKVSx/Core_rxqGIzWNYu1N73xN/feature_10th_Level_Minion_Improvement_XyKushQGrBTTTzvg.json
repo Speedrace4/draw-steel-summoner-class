@@ -1,0 +1,243 @@
+{
+  "folder": "rxqGIzWNYu1N73xN",
+  "name": "10th-Level Minion Improvement",
+  "type": "feature",
+  "_id": "XyKushQGrBTTTzvg",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>You now start encounters and round-tracked situations by summoning up to two additional minions for every two Victories you have (in addition to the two you normally summon).</p><p>Each of your minions’ Stamina improves as shown on the 10th-Level Minion Stamina Increase table. Additionally, each minion that receives a Stamina boost can treat their characteristics as one higher for the purposes of resisting potencies (to a maximum value of 5).</p>",
+      "director": ""
+    },
+    "source": {
+      "book": "Summoner",
+      "page": "46",
+      "license": "Draw Steel Creator License"
+    },
+    "_dsid": "10th-level-minion-improvement",
+    "advancements": {},
+    "prerequisites": {
+      "value": "",
+      "dsid": [
+        "summoner"
+      ],
+      "level": null
+    }
+  },
+  "effects": [
+    {
+      "name": "Signature Minion Stamina Increase",
+      "img": "icons/svg/item-bag.svg",
+      "type": "base",
+      "origin": "Compendium.world.classes.Item.XyKushQGrBTTTzvg",
+      "transfer": false,
+      "_id": "FqxIPEej9G0KNrla",
+      "system": {
+        "changes": [
+          {
+            "key": "system.stamina.max",
+            "type": "add",
+            "value": 1,
+            "phase": "initial",
+            "priority": null
+          }
+        ],
+        "end": {
+          "roll": "1d10 + @combat.save.bonus"
+        }
+      },
+      "disabled": false,
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "createdTime": 1781419017687,
+        "modifiedTime": 1781419017687,
+        "lastModifiedBy": "bULgfeSVOL2yapd0",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!XyKushQGrBTTTzvg.FqxIPEej9G0KNrla"
+    },
+    {
+      "name": "3-Essence Minion Stamina Increase",
+      "img": "icons/svg/item-bag.svg",
+      "type": "base",
+      "origin": "Compendium.world.classes.Item.XyKushQGrBTTTzvg",
+      "transfer": false,
+      "_id": "oSMM3rSYWmwkxfNP",
+      "system": {
+        "changes": [
+          {
+            "key": "system.stamina.max",
+            "type": "add",
+            "value": 3,
+            "phase": "initial",
+            "priority": null
+          }
+        ],
+        "end": {
+          "roll": "1d10 + @combat.save.bonus"
+        }
+      },
+      "disabled": false,
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "createdTime": 1781419017687,
+        "modifiedTime": 1781419017687,
+        "lastModifiedBy": "bULgfeSVOL2yapd0",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!XyKushQGrBTTTzvg.oSMM3rSYWmwkxfNP"
+    },
+    {
+      "name": "5-Essence Minion Stamina Increase",
+      "img": "icons/svg/item-bag.svg",
+      "type": "base",
+      "origin": "Compendium.world.classes.Item.XyKushQGrBTTTzvg",
+      "transfer": false,
+      "_id": "INcAMfDHFwMsdsdu",
+      "system": {
+        "changes": [
+          {
+            "key": "system.stamina.max",
+            "type": "add",
+            "value": 2,
+            "phase": "initial",
+            "priority": null
+          }
+        ],
+        "end": {
+          "roll": "1d10 + @combat.save.bonus"
+        }
+      },
+      "disabled": false,
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "createdTime": 1781419017687,
+        "modifiedTime": 1781419017687,
+        "lastModifiedBy": "bULgfeSVOL2yapd0",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!XyKushQGrBTTTzvg.INcAMfDHFwMsdsdu"
+    },
+    {
+      "name": "7-Essence Minion Stamina Increase",
+      "img": "icons/svg/item-bag.svg",
+      "type": "base",
+      "origin": "Compendium.world.classes.Item.XyKushQGrBTTTzvg",
+      "transfer": false,
+      "_id": "JHQ5qghJBPZLDN0F",
+      "system": {
+        "changes": [
+          {
+            "key": "system.stamina.max",
+            "type": "add",
+            "value": 5,
+            "phase": "initial",
+            "priority": null
+          }
+        ],
+        "end": {
+          "roll": "1d10 + @combat.save.bonus"
+        }
+      },
+      "disabled": false,
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "createdTime": 1781419017687,
+        "modifiedTime": 1781419017687,
+        "lastModifiedBy": "bULgfeSVOL2yapd0",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!XyKushQGrBTTTzvg.JHQ5qghJBPZLDN0F"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bULgfeSVOL2yapd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781419017687,
+    "modifiedTime": 1781419017687,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!XyKushQGrBTTTzvg"
+}

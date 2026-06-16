@@ -1,0 +1,97 @@
+{
+  "folder": "X76PVhFYSIWXtMJh",
+  "name": "Celestial Grace",
+  "type": "feature",
+  "_id": "2PFdgXe2e3kxarWc",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>Your number of Recoveries further increases by 2.</p><p>Additionally, the area affected by your Pixie Dust feature and any of your fey minions’ traits that affect adjacent creatures and/or the area within 1 or more squares of them increase that distance by 1 square.</p>",
+      "director": ""
+    },
+    "source": {
+      "book": "Summoner",
+      "page": "40",
+      "license": "Draw Steel Creator License"
+    },
+    "_dsid": "celestial-grace",
+    "advancements": {},
+    "prerequisites": {
+      "value": "",
+      "dsid": [
+        "summoner",
+        "circle-of-spring"
+      ],
+      "level": null
+    }
+  },
+  "effects": [
+    {
+      "name": "Celestial Grace",
+      "img": "icons/svg/item-bag.svg",
+      "type": "base",
+      "origin": "Compendium.world.classes.Item.2PFdgXe2e3kxarWc",
+      "_id": "waijbyevUzzIMy1H",
+      "system": {
+        "changes": [
+          {
+            "key": "system.recoveries.max",
+            "type": "add",
+            "value": 2,
+            "phase": "initial",
+            "priority": null
+          }
+        ],
+        "end": {
+          "roll": "1d10 + @combat.save.bonus"
+        }
+      },
+      "disabled": false,
+      "start": null,
+      "duration": {
+        "value": null,
+        "units": "seconds",
+        "expiry": null,
+        "expired": false
+      },
+      "description": "",
+      "tint": "#ffffff",
+      "transfer": true,
+      "statuses": [],
+      "showIcon": 1,
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "14.360",
+        "systemId": "draw-steel",
+        "systemVersion": "1.0.2",
+        "createdTime": 1781419017649,
+        "modifiedTime": 1781419017649,
+        "lastModifiedBy": "bULgfeSVOL2yapd0",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "_key": "!items.effects!2PFdgXe2e3kxarWc.waijbyevUzzIMy1H"
+    }
+  ],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bULgfeSVOL2yapd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781419017649,
+    "modifiedTime": 1781419017649,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!2PFdgXe2e3kxarWc"
+}

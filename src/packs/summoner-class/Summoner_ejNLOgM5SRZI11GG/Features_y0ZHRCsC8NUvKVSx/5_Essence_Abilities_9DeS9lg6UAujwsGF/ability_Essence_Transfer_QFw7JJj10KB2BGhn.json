@@ -1,0 +1,154 @@
+{
+  "folder": "9DeS9lg6UAujwsGF",
+  "name": "Essence Transfer",
+  "type": "ability",
+  "_id": "QFw7JJj10KB2BGhn",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "source": {
+      "book": "Summoner",
+      "page": "25",
+      "license": "Draw Steel Creator License"
+    },
+    "_dsid": "essence-transfer",
+    "prerequisites": {
+      "value": "",
+      "dsid": [
+        "summoner"
+      ],
+      "level": null
+    },
+    "story": "You pierce your foe and repurpose some of that ’fiber of their being’ they weren’t using.",
+    "keywords": [
+      "magic",
+      "melee",
+      "strike"
+    ],
+    "type": "main",
+    "category": "",
+    "resource": 5,
+    "trigger": "",
+    "distance": {
+      "type": "melee",
+      "primary": "1",
+      "secondary": "1",
+      "tertiary": "1"
+    },
+    "damageDisplay": "melee",
+    "target": {
+      "type": "creature",
+      "custom": "",
+      "value": 1
+    },
+    "power": {
+      "roll": {
+        "reactive": false,
+        "formula": "@chr",
+        "characteristics": [
+          "reason"
+        ]
+      },
+      "effects": {
+        "lFpWIM9xIRbWbeD5": {
+          "sort": 100000,
+          "name": "",
+          "img": null,
+          "type": "damage",
+          "_id": "lFpWIM9xIRbWbeD5",
+          "damage": {
+            "tier1": {
+              "value": "5 + your R",
+              "types": [
+                "corruption"
+              ],
+              "ignoredImmunities": [],
+              "potency": {
+                "value": "@potency.weak",
+                "characteristic": "none"
+              }
+            },
+            "tier2": {
+              "value": "8 + your R",
+              "types": [
+                "corruption"
+              ],
+              "ignoredImmunities": [],
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "value": "11 + your R",
+              "types": [
+                "corruption"
+              ],
+              "ignoredImmunities": [],
+              "potency": {
+                "value": "@potency.strong",
+                "characteristic": ""
+              }
+            }
+          }
+        },
+        "3YfDYzHekZshHJPl": {
+          "sort": 200000,
+          "name": "",
+          "img": null,
+          "type": "other",
+          "_id": "3YfDYzHekZshHJPl",
+          "other": {
+            "tier1": {
+              "display": "2 charges (see below)",
+              "potency": {
+                "value": "@potency.weak",
+                "characteristic": "none"
+              }
+            },
+            "tier2": {
+              "display": "3 charges",
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "display": "4 charges",
+              "potency": {
+                "value": "@potency.strong",
+                "characteristic": ""
+              }
+            }
+          }
+        }
+      }
+    },
+    "effect": {
+      "before": "",
+      "after": "<p>You can spend charges to activate one of the following effects. You can activate an effect multiple times. All charges disappear after using this ability.</p><p><strong>1 charge</strong>: You or an ally within your Summoner’s Range can spend a Recovery.</p><p><strong>1 charge</strong>: You or an ally within your Summoner’s Range gain a surge.</p><p><strong>2 charges</strong>: You call forth a signature minion into an unoccupied space within your Summoner’s Range.</p>"
+    },
+    "spend": {
+      "text": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781419017676,
+    "modifiedTime": 1781419017676,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "exportSource": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "bULgfeSVOL2yapd0": 3
+  },
+  "sort": 300000,
+  "_key": "!items!QFw7JJj10KB2BGhn"
+}

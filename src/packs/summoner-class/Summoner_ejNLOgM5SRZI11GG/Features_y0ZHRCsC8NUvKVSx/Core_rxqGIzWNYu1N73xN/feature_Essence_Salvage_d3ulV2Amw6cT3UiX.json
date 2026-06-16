@@ -1,0 +1,44 @@
+{
+  "folder": "rxqGIzWNYu1N73xN",
+  "name": "Essence Salvage",
+  "type": "feature",
+  "_id": "d3ulV2Amw6cT3UiX",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": {
+      "value": "<p>The first time each combat round that any minion unwillingly dies within your Summoner’s Range, you [[/gain 2 hr]]{gain 2 essence} instead of 1.</p>",
+      "director": ""
+    },
+    "source": {
+      "book": "Summoner",
+      "page": "33",
+      "license": "Draw Steel Creator License"
+    },
+    "_dsid": "essence-salvage",
+    "advancements": {},
+    "prerequisites": {
+      "value": "",
+      "dsid": [],
+      "level": null
+    }
+  },
+  "effects": [],
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "bULgfeSVOL2yapd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781419017702,
+    "modifiedTime": 1781419017702,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!d3ulV2Amw6cT3UiX"
+}

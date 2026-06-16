@@ -1,0 +1,169 @@
+{
+  "folder": "tQXnQF22wUoj5pYJ",
+  "name": "The Champion Slams the Earth",
+  "type": "ability",
+  "_id": "4vn8ptrLKlQP4SA5",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "source": {
+      "book": "Summoner",
+      "page": "39",
+      "license": "Draw Steel Creator License"
+    },
+    "_dsid": "the-champion-slams-the-earth",
+    "prerequisites": {
+      "value": "",
+      "dsid": [
+        "summoner"
+      ],
+      "level": 6
+    },
+    "story": "Your champion lays their fury upon those unfortunate enough to be in their wake.",
+    "keywords": [
+      "area",
+      "magic",
+      "weapon"
+    ],
+    "type": "main",
+    "category": "",
+    "resource": 9,
+    "trigger": "",
+    "distance": {
+      "type": "cube",
+      "primary": "4",
+      "secondary": "1",
+      "tertiary": "1"
+    },
+    "damageDisplay": "melee",
+    "target": {
+      "type": "enemyObject",
+      "custom": "Each enemy and object in the area",
+      "value": null
+    },
+    "power": {
+      "roll": {
+        "reactive": false,
+        "formula": "@chr",
+        "characteristics": [
+          "reason"
+        ]
+      },
+      "effects": {
+        "Pt84HAZbRoYNBxF5": {
+          "sort": 100000,
+          "name": "",
+          "img": null,
+          "type": "damage",
+          "_id": "Pt84HAZbRoYNBxF5",
+          "damage": {
+            "tier1": {
+              "value": "5",
+              "types": [],
+              "ignoredImmunities": [],
+              "potency": {
+                "value": "@potency.weak",
+                "characteristic": "none"
+              }
+            },
+            "tier2": {
+              "value": "8",
+              "types": [],
+              "ignoredImmunities": [],
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "value": "11",
+              "types": [],
+              "ignoredImmunities": [],
+              "potency": {
+                "value": "@potency.strong",
+                "characteristic": ""
+              }
+            }
+          }
+        },
+        "LaYCDQ5MLIKOGynD": {
+          "sort": 200000,
+          "name": "",
+          "img": null,
+          "type": "applied",
+          "_id": "LaYCDQ5MLIKOGynD",
+          "applied": {
+            "tier1": {
+              "display": "{{potency}} prone and can't stand (save ends)",
+              "effects": {
+                "prone": {
+                  "condition": "failure",
+                  "properties": [],
+                  "end": "save"
+                }
+              },
+              "potency": {
+                "value": "@potency.weak",
+                "characteristic": "might"
+              }
+            },
+            "tier2": {
+              "display": "",
+              "effects": {
+                "prone": {
+                  "condition": "failure",
+                  "properties": [],
+                  "end": "save"
+                }
+              },
+              "potency": {
+                "value": "@potency.average",
+                "characteristic": ""
+              }
+            },
+            "tier3": {
+              "display": "",
+              "effects": {
+                "prone": {
+                  "condition": "failure",
+                  "properties": [],
+                  "end": "save"
+                }
+              },
+              "potency": {
+                "value": "@potency.strong",
+                "characteristic": ""
+              }
+            }
+          }
+        }
+      }
+    },
+    "effect": {
+      "before": "",
+      "after": "<p>You can use this ability as if in the space of one of your minions within your Summoner’s Range.</p><p><strong>Special</strong>: You can change the damage type to be a type that your champion deals on their stat block (see Portfolio Champion).</p>"
+    },
+    "spend": {
+      "text": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "bULgfeSVOL2yapd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781419017651,
+    "modifiedTime": 1781419017651,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!4vn8ptrLKlQP4SA5"
+}

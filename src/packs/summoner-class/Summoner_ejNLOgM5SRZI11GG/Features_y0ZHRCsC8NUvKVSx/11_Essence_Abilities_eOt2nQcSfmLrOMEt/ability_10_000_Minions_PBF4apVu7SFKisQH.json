@@ -1,0 +1,77 @@
+{
+  "folder": "eOt2nQcSfmLrOMEt",
+  "name": "10,000 Minions",
+  "type": "ability",
+  "_id": "PBF4apVu7SFKisQH",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "source": {
+      "book": "Summoner",
+      "page": "45",
+      "license": "Draw Steel Creator License"
+    },
+    "_dsid": "10000-minions",
+    "prerequisites": {
+      "value": "",
+      "dsid": [
+        "summoner"
+      ],
+      "level": 9
+    },
+    "story": "The battle is now a war. Your entire army storms the field.",
+    "keywords": [
+      "magic"
+    ],
+    "type": "main",
+    "category": "",
+    "resource": 11,
+    "trigger": "",
+    "distance": {
+      "type": "special",
+      "primary": "1",
+      "secondary": "1",
+      "tertiary": "1"
+    },
+    "damageDisplay": "melee",
+    "target": {
+      "type": "special",
+      "custom": "",
+      "value": null
+    },
+    "power": {
+      "roll": {
+        "reactive": false,
+        "formula": "@chr",
+        "characteristics": []
+      },
+      "effects": {}
+    },
+    "effect": {
+      "before": "<p>Until the end of the encounter or you are dying, each square on the ground is considered teeming with minions. An enemy that ends their turn in an affected square takes [[/damage 5]]. This damage can’t be reduced.</p><p>Additionally, you can use Minion Bridge treating each affected square as an eligible minion (up to a maximum of 10 additional squares).</p>",
+      "after": ""
+    },
+    "spend": {
+      "text": "",
+      "value": null
+    }
+  },
+  "effects": [],
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "bULgfeSVOL2yapd0": 3
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "14.360",
+    "systemId": "draw-steel",
+    "systemVersion": "1.0.2",
+    "createdTime": 1781419017674,
+    "modifiedTime": 1781419017674,
+    "lastModifiedBy": "bULgfeSVOL2yapd0",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!PBF4apVu7SFKisQH"
+}
