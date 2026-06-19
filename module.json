@@ -4,7 +4,7 @@
   "description": "A module that adds the Summoner class for Draw Steel.",
   "url": "https://github.com/Speedrace4/draw-steel-summoner-class",
   "bugs": "https://github.com/Speedrace4/draw-steel-summoner-class/issues",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
