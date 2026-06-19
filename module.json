@@ -1,7 +1,7 @@
 {
   "id": "draw-steel-summoner-class",
   "title": "Draw Steel - Summoner Class",
-  "description": "A module that adds the Summoner class for Draw Steel.",
+  "description": "<p>A module that adds the Summoner class for Draw Steel.</p>",
   "url": "https://github.com/Speedrace4/draw-steel-summoner-class",
   "bugs": "https://github.com/Speedrace4/draw-steel-summoner-class/issues",
   "version": "1.0.1",
@@ -13,7 +13,8 @@
     {
       "name": "wow2",
       "url": "https://github.com/Speedrace4",
-      "discord": "wow2"
+      "discord": "wow2",
+      "flags": {}
     }
   ],
   "flags": {
@@ -25,11 +26,11 @@
       "label": "Summoner Class",
       "path": "packs/summoner-class",
       "type": "Item",
+      "system": "draw-steel",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "draw-steel",
       "flags": {}
     },
     {
@@ -37,11 +38,11 @@
       "label": "Summoner Minions",
       "path": "packs/summoner-minions",
       "type": "Actor",
+      "system": "draw-steel",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "draw-steel",
       "flags": {}
     },
     {
@@ -49,6 +50,18 @@
       "label": "Summoner Kits",
       "path": "packs/summoner-kits",
       "type": "Item",
+      "system": "draw-steel",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "summoner-macros",
+      "label": "Summoner Macros",
+      "path": "packs/summoner-macros",
+      "type": "Macro",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -72,11 +85,19 @@
   "packFolders": [
     {
       "name": "Summoner Compendium",
-      "color": "#28AD7E",
-      "packs": ["summoner-class", "summoner-kits", "summoner-minions"]
+      "color": "#28ad7e",
+      "packs": [
+        "summoner-class",
+        "summoner-kits",
+        "summoner-minions",
+        "summoner-macros"
+      ],
+      "folders": []
     }
   ],
-  "esmodules": ["scripts/main.js"],
+  "esmodules": [
+    "scripts/main.js"
+  ],
   "manifest": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test/module.json",
   "download": "https://github.com/Speedrace4/draw-steel-summoner-class/releases/download/test/module.zip",
   "readme": "https://github.com/Speedrace4/draw-steel-summoner-class/blob/master/README.md"

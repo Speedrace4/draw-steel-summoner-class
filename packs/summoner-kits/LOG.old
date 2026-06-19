@@ -1,3 +1,8 @@
-2026/06/15-23:07:03.334 f5c Recovering log #4
-2026/06/15-23:07:03.337 f5c Delete type=0 #4
-2026/06/15-23:07:03.337 f5c Delete type=3 #2
+2026/06/18-00:06:37.284 55c4 Recovering log #23
+2026/06/18-00:06:37.288 55c4 Delete type=0 #23
+2026/06/18-00:06:37.288 55c4 Delete type=3 #21
+2026/06/18-00:09:55.982 dc8 Level-0 table #28: started
+2026/06/18-00:09:55.983 dc8 Level-0 table #28: 0 bytes OK
+2026/06/18-00:09:55.984 dc8 Delete type=0 #26
+2026/06/18-00:09:56.098 dc8 Manual compaction at level-0 from '!folders!gcNzjYzqaDJTbC7w' @ 72057594037927935 : 1 .. '!items.effects!SrNnnIB1IhdIqQv9.R8A2Qt2Zb4nBM1Ml' @ 0 : 0; will stop at (end)
+2026/06/18-00:09:56.098 dc8 Manual compaction at level-1 from '!folders!gcNzjYzqaDJTbC7w' @ 72057594037927935 : 1 .. '!items.effects!SrNnnIB1IhdIqQv9.R8A2Qt2Zb4nBM1Ml' @ 0 : 0; will stop at (end)
