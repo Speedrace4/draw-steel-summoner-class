@@ -68,6 +68,30 @@
       },
       "system": "draw-steel",
       "flags": {}
+    },
+    {
+      "name": "summoner-items",
+      "label": "Summoner Items",
+      "path": "packs/summoner-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "draw-steel",
+      "flags": {}
+    },
+    {
+      "name": "summoner-retainers-and-rivals",
+      "label": "Summoner Retainers and Rivals",
+      "path": "packs/summoner-retainers-and-rivals",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "draw-steel",
+      "flags": {}
     }
   ],
   "relationships": {
@@ -90,7 +114,9 @@
         "summoner-class",
         "summoner-kits",
         "summoner-minions",
-        "summoner-macros"
+        "summoner-macros",
+        "summoner-items",
+        "summoner-retainers-and-rivals"
       ],
       "folders": []
     }
