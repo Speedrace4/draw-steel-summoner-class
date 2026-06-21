@@ -70,9 +70,9 @@
       "flags": {}
     },
     {
-      "name": "summoner-items",
-      "label": "Summoner Items",
-      "path": "packs/summoner-items",
+      "name": "summoner-rewards",
+      "label": "Summoner Rewards",
+      "path": "packs/summoner-rewards",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
@@ -115,7 +115,7 @@
         "summoner-kits",
         "summoner-minions",
         "summoner-macros",
-        "summoner-items",
+        "summoner-rewards",
         "summoner-retainers-and-rivals"
       ],
       "folders": []
