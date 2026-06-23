@@ -17,21 +17,7 @@ async function ownerPotencyEnricher (match, options) {
   if (!owner) {
     return defaultReturnVal;
   }
-  if (attribute == "MIGHT" || attribute == "M") {
-    return constructPotencyHTML("M", owner.system.characteristics.might.value + strengthValue);
-  }
-  else if (attribute == "AGILITY" || attribute == "A") {
-    return constructPotencyHTML("A", owner.system.characteristics.agility.value + strengthValue);
-  }
-  else if (attribute == "REASON" || attribute == "R") {
-    return constructPotencyHTML("R", owner.system.characteristics.reason.value + strengthValue);
-  }
-  else if (attribute == "INTUITION" || attribute == "I") {
-    return constructPotencyHTML("I", owner.system.characteristics.intuition.value + strengthValue);
-  }
-  else {
-    return constructPotencyHTML("P", owner.system.characteristics.presence.value + strengthValue);
-  }
+  return constructPotencyHTML(attribute[0], owner.system.characteristics.reason.value + strengthValue);
 }
 
 async function constructPotencyHTML(characteristic, strength) {
