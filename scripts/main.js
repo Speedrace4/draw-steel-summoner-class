@@ -1,3 +1,5 @@
+import AppliedSummonerPowerRollEffect from "./ownerRollEffect.js";
+
 async function ownerPotencyEnricher (match, options) {
   const attribute = match[2].toUpperCase();
   const attributeLetter = match[2][0].toUpperCase();
@@ -21,7 +23,6 @@ async function ownerPotencyEnricher (match, options) {
 }
 
 async function constructPotencyHTML(characteristic, strength) {
-
   if (strength in ds.CONST.potencyStrengths) strength = ds.CONST.potencyStrengths[strength].glyph;
   // Numeric glyphs are formatted with square edges on both sides
   // Append right bracket to get the rounded edge on the end.
@@ -47,7 +48,9 @@ const enricherConfig = {
   replaceParent: false
 };
 
-Hooks.on("init", () => {
+Hooks.once("init", () => {
     console.log(`draw-steel-summoner-class | Initializing Draw Steel - Summoner Class`);
     CONFIG.TextEditor.enrichers.push(enricherConfig);
+    CONFIG.DRAW_STEEL.PowerRollEffect.applied.documentClass = AppliedSummonerPowerRollEffect
+    console.log(`draw-steel-summoner-class | Finished Initializing Draw Steel - Summoner Class`);
 });

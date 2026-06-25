@@ -104,6 +104,16 @@
           "verified": "1.0.0"
         }
       }
+    ],
+    "modules": [
+      {
+        "id": "draw-steel",
+        "type": "system",
+        "compatibility": {
+          "minimum": "1.0.0",
+          "verified": "1.0.0"
+        }
+      }
     ]
   },
   "packFolders": [
